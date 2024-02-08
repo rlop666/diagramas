@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-08T12:32:17.792Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="fIcNzvGNJ3E6UHZ6evRE" version="23.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-08T13:13:19.746Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="UK_NbRvF7CbZ09ri2OIL" version="23.1.2" type="github">
   <diagram name="Página-1" id="DgyqjarxZwNVzye8CLjz">
-    <mxGraphModel dx="1097" dy="1776" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1042" dy="1746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -68,7 +68,7 @@
         <mxCell id="WXpK4O57Sc2LEBE2KfK7-130" value="EJE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WXpK4O57Sc2LEBE2KfK7-14">
           <mxGeometry x="203" y="30" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WXpK4O57Sc2LEBE2KfK7-136" value="REP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WXpK4O57Sc2LEBE2KfK7-14">
+        <mxCell id="WXpK4O57Sc2LEBE2KfK7-136" value="REP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WXpK4O57Sc2LEBE2KfK7-14">
           <mxGeometry x="44" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WXpK4O57Sc2LEBE2KfK7-16" value="2ª INSTANCIA" style="swimlane;startSize=20;horizontal=0;html=1;fillColor=#fff2cc;strokeColor=#d6b656;swimlaneFillColor=default;" vertex="1" parent="WXpK4O57Sc2LEBE2KfK7-13">
@@ -95,7 +95,7 @@
         <mxCell id="WXpK4O57Sc2LEBE2KfK7-131" value="EJE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WXpK4O57Sc2LEBE2KfK7-16">
           <mxGeometry x="203" y="30" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WXpK4O57Sc2LEBE2KfK7-137" value="REP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WXpK4O57Sc2LEBE2KfK7-16">
+        <mxCell id="WXpK4O57Sc2LEBE2KfK7-137" value="REP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WXpK4O57Sc2LEBE2KfK7-16">
           <mxGeometry x="44" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WXpK4O57Sc2LEBE2KfK7-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WXpK4O57Sc2LEBE2KfK7-13" source="WXpK4O57Sc2LEBE2KfK7-15" target="WXpK4O57Sc2LEBE2KfK7-18">
@@ -116,7 +116,7 @@
         <mxCell id="WXpK4O57Sc2LEBE2KfK7-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WXpK4O57Sc2LEBE2KfK7-20" source="WXpK4O57Sc2LEBE2KfK7-121" target="WXpK4O57Sc2LEBE2KfK7-134">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WXpK4O57Sc2LEBE2KfK7-121" value="RECURSO" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WXpK4O57Sc2LEBE2KfK7-20">
+        <mxCell id="WXpK4O57Sc2LEBE2KfK7-121" value="RECURSO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WXpK4O57Sc2LEBE2KfK7-20">
           <mxGeometry x="383" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WXpK4O57Sc2LEBE2KfK7-122" value="RECURSO" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WXpK4O57Sc2LEBE2KfK7-20">
@@ -131,7 +131,7 @@
         <mxCell id="WXpK4O57Sc2LEBE2KfK7-134" value="EJE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WXpK4O57Sc2LEBE2KfK7-20">
           <mxGeometry x="203" y="30" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WXpK4O57Sc2LEBE2KfK7-138" value="REP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WXpK4O57Sc2LEBE2KfK7-20">
+        <mxCell id="WXpK4O57Sc2LEBE2KfK7-138" value="REP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WXpK4O57Sc2LEBE2KfK7-20">
           <mxGeometry x="44" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WXpK4O57Sc2LEBE2KfK7-120" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WXpK4O57Sc2LEBE2KfK7-13" source="WXpK4O57Sc2LEBE2KfK7-18" target="WXpK4O57Sc2LEBE2KfK7-121">
@@ -167,7 +167,7 @@
           <mxGeometry x="220" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WXpK4O57Sc2LEBE2KfK7-95" value="RECURSO (lo resuelve el mismo órgano)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WXpK4O57Sc2LEBE2KfK7-28">
-          <mxGeometry x="500" y="30" width="120" height="60" as="geometry" />
+          <mxGeometry x="450" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WXpK4O57Sc2LEBE2KfK7-30" value="2ª INSTANCIA" style="swimlane;startSize=20;horizontal=0;html=1;fillColor=#fff2cc;strokeColor=#d6b656;swimlaneFillColor=default;" vertex="1" parent="WXpK4O57Sc2LEBE2KfK7-27">
           <mxGeometry y="140" width="750" height="120" as="geometry" />
@@ -179,7 +179,7 @@
           <mxGeometry x="60" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WXpK4O57Sc2LEBE2KfK7-97" value="RECURSO" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WXpK4O57Sc2LEBE2KfK7-30">
-          <mxGeometry x="610" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="560" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WXpK4O57Sc2LEBE2KfK7-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WXpK4O57Sc2LEBE2KfK7-30" source="WXpK4O57Sc2LEBE2KfK7-98" target="WXpK4O57Sc2LEBE2KfK7-101">
           <mxGeometry relative="1" as="geometry" />
@@ -190,7 +190,7 @@
         <mxCell id="WXpK4O57Sc2LEBE2KfK7-101" value="RECURSO (lo resuelve el mismo órgano)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WXpK4O57Sc2LEBE2KfK7-30">
           <mxGeometry x="400" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WXpK4O57Sc2LEBE2KfK7-32" value="3ª INSTANCIA" style="swimlane;startSize=20;horizontal=0;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;swimlaneFillColor=default;" vertex="1" parent="WXpK4O57Sc2LEBE2KfK7-27">
+        <mxCell id="WXpK4O57Sc2LEBE2KfK7-32" value="3ª INSTANCIA" style="swimlane;startSize=20;horizontal=0;html=1;fillColor=#f8cecc;strokeColor=#b85450;swimlaneFillColor=default;" vertex="1" parent="WXpK4O57Sc2LEBE2KfK7-27">
           <mxGeometry y="260" width="750" height="120" as="geometry" />
         </mxCell>
         <mxCell id="WXpK4O57Sc2LEBE2KfK7-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WXpK4O57Sc2LEBE2KfK7-32" source="WXpK4O57Sc2LEBE2KfK7-34" target="WXpK4O57Sc2LEBE2KfK7-105">
@@ -200,10 +200,10 @@
           <mxGeometry x="60" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WXpK4O57Sc2LEBE2KfK7-103" value="RECURSO" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WXpK4O57Sc2LEBE2KfK7-32">
-          <mxGeometry x="540" y="30" width="120" height="60" as="geometry" />
+          <mxGeometry x="404" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WXpK4O57Sc2LEBE2KfK7-105" value="REP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WXpK4O57Sc2LEBE2KfK7-32">
-          <mxGeometry x="350" y="30" width="120" height="60" as="geometry" />
+          <mxGeometry x="230" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WXpK4O57Sc2LEBE2KfK7-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WXpK4O57Sc2LEBE2KfK7-27" source="WXpK4O57Sc2LEBE2KfK7-29" target="WXpK4O57Sc2LEBE2KfK7-31">
           <mxGeometry relative="1" as="geometry">
@@ -216,7 +216,7 @@
         <mxCell id="WXpK4O57Sc2LEBE2KfK7-94" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WXpK4O57Sc2LEBE2KfK7-27" source="WXpK4O57Sc2LEBE2KfK7-92" target="WXpK4O57Sc2LEBE2KfK7-97">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WXpK4O57Sc2LEBE2KfK7-104" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WXpK4O57Sc2LEBE2KfK7-27" source="WXpK4O57Sc2LEBE2KfK7-98" target="WXpK4O57Sc2LEBE2KfK7-103">
+        <mxCell id="WXpK4O57Sc2LEBE2KfK7-104" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WXpK4O57Sc2LEBE2KfK7-27" source="WXpK4O57Sc2LEBE2KfK7-98" target="WXpK4O57Sc2LEBE2KfK7-103">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WXpK4O57Sc2LEBE2KfK7-38" value="&lt;p&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;se revuelve el recurso y se recurre en tercera instancia. Sobre ese recurso se abre un Incidente/Medida Cautelar.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Este incidente se recurre. ¿Se puede recurrir ese recurso del Incidente? &lt;font color=&quot;#ff0000&quot;&gt;No.&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color: rgb(45, 155, 240);&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Si a partir del recurso en tercera instancia se crea un IMC, según lo dicho en la pregunta primera, el recurso de éste se resolverá por el órgano jurisdiccional superior. Se me acaban las instancias&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
@@ -378,16 +378,19 @@
             <mxPoint x="1630" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WXpK4O57Sc2LEBE2KfK7-107" value="Reposición 1&lt;br&gt;Reforma en penal&lt;br&gt;Recurso directo de revisión (SEJU art 454)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="1760" y="70" width="250" height="60" as="geometry" />
+        <mxCell id="WXpK4O57Sc2LEBE2KfK7-107" value="Reposición 1&lt;br&gt;Reforma en penal&lt;br&gt;Recurso directo de revisión (SEJU art 454)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1760" y="60" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WXpK4O57Sc2LEBE2KfK7-110" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WXpK4O57Sc2LEBE2KfK7-109">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1800" y="290" as="targetPoint" />
+            <mxPoint x="1760" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WXpK4O57Sc2LEBE2KfK7-109" value="juris: 1- Apelación&lt;br&gt;2- suplicación&lt;br&gt;3-4 apelación&lt;br&gt;Queja en todas las juris" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1975" y="148" width="150" height="70" as="geometry" />
+        <mxCell id="WXpK4O57Sc2LEBE2KfK7-109" value="juris: 1- Apelación&lt;br&gt;2- suplicación&lt;br&gt;3-4 apelación&lt;br&gt;Queja en todas las juris" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="2010" y="148" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="WXpK4O57Sc2LEBE2KfK7-142" value="Un recurso que viene de un IMC no puede tener un IMC" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="250" y="608" width="320" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
