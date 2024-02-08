@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-08T15:00:08.919Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="QLTL7ytOvQI40ktPM7pA" version="23.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-08T16:39:58.765Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="GAV7PyZs06Pc5HmMZ_dW" version="23.1.2" type="github">
   <diagram name="Página-1" id="DgyqjarxZwNVzye8CLjz">
-    <mxGraphModel dx="1389" dy="1938" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1042" dy="1746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -536,8 +536,8 @@
             <mxPoint x="1790" y="815" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WXpK4O57Sc2LEBE2KfK7-188" value="1: Apelación&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;2: Suplicación&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;3, 4: Apelación&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;TODAS: Queja" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=#fff2cc;fontFamily=Helvetica;fontSize=12;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="2150" y="780" width="100" height="70" as="geometry" />
+        <mxCell id="WXpK4O57Sc2LEBE2KfK7-188" value="JURIS&amp;nbsp;&amp;nbsp;&#x9;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;TIPO&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;-------&amp;nbsp;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;---------&lt;br&gt;1: &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Apelación&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;2: &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Suplicación&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;3, 4: &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Apelación&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;TODAS: &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Queja" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=#fff2cc;fontFamily=Helvetica;fontSize=12;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="2150" y="765" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="WXpK4O57Sc2LEBE2KfK7-192" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;startSize=20;dashed=1;exitX=0.486;exitY=1.039;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="WXpK4O57Sc2LEBE2KfK7-191">
           <mxGeometry relative="1" as="geometry">
@@ -545,8 +545,8 @@
             <mxPoint x="1928.842105263158" y="610" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WXpK4O57Sc2LEBE2KfK7-191" value="1: Reposición&lt;br style=&quot;border-color: var(--border-color); text-align: center;&quot;&gt;&lt;span style=&quot;text-align: center;&quot;&gt;4: Reforma&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); text-align: center;&quot;&gt;&lt;span style=&quot;text-align: center;&quot;&gt;?: Recurso directo de revisión (SEJU art 454)&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=#fff2cc;fontFamily=Helvetica;fontSize=12;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="1755" y="548" width="260" height="60" as="geometry" />
+        <mxCell id="WXpK4O57Sc2LEBE2KfK7-191" value="JURIS&amp;nbsp;&amp;nbsp;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;TIPO&lt;br&gt;-------&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;---------&lt;br&gt;1: &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/span&gt;Reposición&lt;br style=&quot;border-color: var(--border-color); text-align: center;&quot;&gt;&lt;span style=&quot;text-align: center;&quot;&gt;4: &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Reforma&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); text-align: center;&quot;&gt;&lt;span style=&quot;text-align: center;&quot;&gt;?: &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Recurso directo de revisión (SEJU art 454)&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=#fff2cc;fontFamily=Helvetica;fontSize=12;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="1755" y="518" width="300" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
