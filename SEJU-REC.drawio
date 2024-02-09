@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-08T20:00:00.102Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="5WFjcUZfHwMAWv1FCXZF" version="23.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-09T07:16:53.643Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="VHhREYOdg_ydHHgjx1Q5" version="23.1.2" type="github">
   <diagram name="Página-1" id="DgyqjarxZwNVzye8CLjz">
-    <mxGraphModel dx="992" dy="1719" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1042" dy="1746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -498,7 +498,7 @@
         <mxCell id="WXpK4O57Sc2LEBE2KfK7-166" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WXpK4O57Sc2LEBE2KfK7-163" source="WXpK4O57Sc2LEBE2KfK7-167" target="WXpK4O57Sc2LEBE2KfK7-171" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ypyUXCca2VMXUNs-koCW-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WXpK4O57Sc2LEBE2KfK7-163" source="WXpK4O57Sc2LEBE2KfK7-167" target="ypyUXCca2VMXUNs-koCW-2">
+        <mxCell id="ypyUXCca2VMXUNs-koCW-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WXpK4O57Sc2LEBE2KfK7-163" source="WXpK4O57Sc2LEBE2KfK7-167" target="ypyUXCca2VMXUNs-koCW-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WXpK4O57Sc2LEBE2KfK7-167" value="RECURSO" style="rounded=0;whiteSpace=wrap;html=1;" parent="WXpK4O57Sc2LEBE2KfK7-163" vertex="1">
@@ -522,8 +522,8 @@
         <mxCell id="WXpK4O57Sc2LEBE2KfK7-186" value="RECURSO" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="WXpK4O57Sc2LEBE2KfK7-163" vertex="1">
           <mxGeometry x="203" y="16" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ypyUXCca2VMXUNs-koCW-2" value="REP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WXpK4O57Sc2LEBE2KfK7-163">
-          <mxGeometry x="384" y="119" width="120" height="60" as="geometry" />
+        <mxCell id="ypyUXCca2VMXUNs-koCW-2" value="REP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="WXpK4O57Sc2LEBE2KfK7-163" vertex="1">
+          <mxGeometry x="383" y="119" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WXpK4O57Sc2LEBE2KfK7-173" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WXpK4O57Sc2LEBE2KfK7-143" source="WXpK4O57Sc2LEBE2KfK7-155" target="WXpK4O57Sc2LEBE2KfK7-167" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -564,7 +564,7 @@
           <mxGeometry x="2210" y="488" width="810" height="251" as="geometry" />
         </mxCell>
         <mxCell id="WXpK4O57Sc2LEBE2KfK7-208" value="Assets" style="childLayout=tableLayout;recursiveResize=0;strokeColor=#98bf21;fillColor=#A7C942;shadow=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;startSize=20;html=1;" parent="WXpK4O57Sc2LEBE2KfK7-278" vertex="1">
-          <mxGeometry y="30" width="810" height="221" as="geometry" />
+          <mxGeometry x="10" y="30" width="810" height="221" as="geometry" />
         </mxCell>
         <mxCell id="WXpK4O57Sc2LEBE2KfK7-209" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=inherit;fillColor=#ffffff;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;html=1;" parent="WXpK4O57Sc2LEBE2KfK7-208" vertex="1">
           <mxGeometry width="810" height="33" as="geometry" />
@@ -759,37 +759,37 @@
         <mxCell id="WXpK4O57Sc2LEBE2KfK7-261" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;strokeColor=inherit;fillColor=#EAF2D3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;html=1;" parent="WXpK4O57Sc2LEBE2KfK7-208" vertex="1">
           <mxGeometry y="159" width="810" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="WXpK4O57Sc2LEBE2KfK7-262" value="17 - REVISIÓN (art 454)" style="connectable=0;recursiveResize=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;startSize=20;fillColor=default;" parent="WXpK4O57Sc2LEBE2KfK7-261" vertex="1">
+        <mxCell id="WXpK4O57Sc2LEBE2KfK7-262" value="17 - REVISIÓN (art 454)" style="connectable=0;recursiveResize=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;startSize=20;fillColor=default;strokeColor=#66CC00;" parent="WXpK4O57Sc2LEBE2KfK7-261" vertex="1">
           <mxGeometry width="110" height="31" as="geometry">
             <mxRectangle width="110" height="31" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WXpK4O57Sc2LEBE2KfK7-263" value="16 - REPOSICIÓN" style="connectable=0;recursiveResize=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;startSize=20;" parent="WXpK4O57Sc2LEBE2KfK7-261" vertex="1">
+        <mxCell id="WXpK4O57Sc2LEBE2KfK7-263" value="16 - REPOSICIÓN" style="connectable=0;recursiveResize=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;startSize=20;strokeColor=#66CC00;" parent="WXpK4O57Sc2LEBE2KfK7-261" vertex="1">
           <mxGeometry x="110" width="110" height="31" as="geometry">
             <mxRectangle width="110" height="31" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WXpK4O57Sc2LEBE2KfK7-264" value="17 - REVISIÓN (art 454)" style="connectable=0;recursiveResize=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;startSize=20;" parent="WXpK4O57Sc2LEBE2KfK7-261" vertex="1">
+        <mxCell id="WXpK4O57Sc2LEBE2KfK7-264" value="17 - REVISIÓN (art 454)" style="connectable=0;recursiveResize=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;startSize=20;strokeColor=#66CC00;" parent="WXpK4O57Sc2LEBE2KfK7-261" vertex="1">
           <mxGeometry x="220" width="120" height="31" as="geometry">
             <mxRectangle width="120" height="31" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WXpK4O57Sc2LEBE2KfK7-265" value="&lt;font color=&quot;#ff0000&quot;&gt;16 - REFORMA&lt;/font&gt;" style="connectable=0;recursiveResize=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;startSize=20;" parent="WXpK4O57Sc2LEBE2KfK7-261" vertex="1">
+        <mxCell id="WXpK4O57Sc2LEBE2KfK7-265" value="&lt;font color=&quot;#ff0000&quot;&gt;16 - REFORMA&lt;/font&gt;" style="connectable=0;recursiveResize=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;startSize=20;strokeColor=#66CC00;" parent="WXpK4O57Sc2LEBE2KfK7-261" vertex="1">
           <mxGeometry x="340" width="110" height="31" as="geometry">
             <mxRectangle width="110" height="31" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WXpK4O57Sc2LEBE2KfK7-266" style="connectable=0;recursiveResize=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;startSize=20;" parent="WXpK4O57Sc2LEBE2KfK7-261" vertex="1">
+        <mxCell id="WXpK4O57Sc2LEBE2KfK7-266" style="connectable=0;recursiveResize=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;startSize=20;strokeColor=#66CC00;" parent="WXpK4O57Sc2LEBE2KfK7-261" vertex="1">
           <mxGeometry x="450" width="100" height="31" as="geometry">
             <mxRectangle width="100" height="31" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WXpK4O57Sc2LEBE2KfK7-267" style="connectable=0;recursiveResize=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;startSize=20;" parent="WXpK4O57Sc2LEBE2KfK7-261" vertex="1">
+        <mxCell id="WXpK4O57Sc2LEBE2KfK7-267" style="connectable=0;recursiveResize=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;startSize=20;strokeColor=#66CC00;" parent="WXpK4O57Sc2LEBE2KfK7-261" vertex="1">
           <mxGeometry x="550" width="150" height="31" as="geometry">
             <mxRectangle width="150" height="31" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WXpK4O57Sc2LEBE2KfK7-268" style="connectable=0;recursiveResize=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;startSize=20;" parent="WXpK4O57Sc2LEBE2KfK7-261" vertex="1">
+        <mxCell id="WXpK4O57Sc2LEBE2KfK7-268" style="connectable=0;recursiveResize=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;startSize=20;strokeColor=#66CC00;" parent="WXpK4O57Sc2LEBE2KfK7-261" vertex="1">
           <mxGeometry x="700" width="110" height="31" as="geometry">
             <mxRectangle width="110" height="31" as="alternateBounds" />
           </mxGeometry>
@@ -835,8 +835,8 @@
         <mxCell id="WXpK4O57Sc2LEBE2KfK7-277" value="RECURSOS CONTRA SENTENCIA SEGÚN JURISDICCIÓN" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Helvetica;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WXpK4O57Sc2LEBE2KfK7-278" vertex="1">
           <mxGeometry width="350" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ypyUXCca2VMXUNs-koCW-1" value="APERTURA DE RECURSO&lt;br&gt;-------------------------------------&lt;br&gt;CON - Si el contencioso no tiene REC SI puedo&lt;br&gt;IMC - Si el IMC proviene de un CON y no tiene REC SI puedo&lt;br&gt;IMC - Si el IMC proviene de un REC que proviene de un CON y no tiene REC SI puedo&lt;br&gt;IMC - Si e IMC proviene de un REC que proviene de un REC NO puedo&lt;br&gt;REP - Si el REP viene de una EJE NO puedo&lt;br&gt;REP - Si el REP viene de un REC que proviene de un REC NO puedo&lt;br&gt;REP - Si el REP viene de un REC que viene de un CON y no tiene REP SI puedo&lt;br&gt;REP - Si el REP viene de un CON SI puedo&lt;br&gt;REC . Si el REC viene de un CON y no tiene REC SI puedo&lt;br&gt;REC - Si el REC viene de un REC NO puedo&lt;br&gt;REC - Si el REC viene de un IMC que proviene de un REC NO puedo&lt;br&gt;REC - Si el REC viene de un IMC que que proviene de un CON y no tiene REC SI puedo" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=#FFF2CC;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="2150" y="890" width="500" height="220" as="geometry" />
+        <mxCell id="ypyUXCca2VMXUNs-koCW-1" value="APERTURA DE RECURSO&lt;br&gt;Partimos de la base de que no tenga ya un REC abierto&lt;br&gt;-------------------------------------&lt;br&gt;CON - SI puedo&lt;br&gt;IMC - Si el IMC proviene de un CON SI puedo&lt;br&gt;IMC - Si el IMC proviene de un REC que proviene de un CON SI puedo&lt;br&gt;IMC - Si e IMC proviene de un REC que proviene de un REC NO puedo&lt;br&gt;REP - Si el REP viene de una EJE NO puedo&lt;br&gt;REP - Si el REP viene de un REC que proviene de un REC NO puedo&lt;br&gt;REP - Si el REP viene de un REC que viene de un CON SI puedo&lt;br&gt;REP - Si el REP viene de un CON SI puedo&lt;br&gt;REC . Si el REC viene de un CON SI puedo&lt;br&gt;REC - Si el REC viene de un REC NO puedo&lt;br&gt;REC - Si el REC viene de un IMC que proviene de un REC NO puedo&lt;br&gt;REC - Si el REC viene de un IMC que que proviene de un CON SI puedo" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=#FFF2CC;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="2150" y="885" width="410" height="230" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
