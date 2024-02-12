@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-09T07:16:53.643Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="VHhREYOdg_ydHHgjx1Q5" version="23.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-12T12:36:28.342Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="KnS1ColgaPHrALr_7LEo" version="23.1.2" type="github">
   <diagram name="Página-1" id="DgyqjarxZwNVzye8CLjz">
-    <mxGraphModel dx="1042" dy="1746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="771" dy="1598" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -835,8 +835,8 @@
         <mxCell id="WXpK4O57Sc2LEBE2KfK7-277" value="RECURSOS CONTRA SENTENCIA SEGÚN JURISDICCIÓN" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Helvetica;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WXpK4O57Sc2LEBE2KfK7-278" vertex="1">
           <mxGeometry width="350" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ypyUXCca2VMXUNs-koCW-1" value="APERTURA DE RECURSO&lt;br&gt;Partimos de la base de que no tenga ya un REC abierto&lt;br&gt;-------------------------------------&lt;br&gt;CON - SI puedo&lt;br&gt;IMC - Si el IMC proviene de un CON SI puedo&lt;br&gt;IMC - Si el IMC proviene de un REC que proviene de un CON SI puedo&lt;br&gt;IMC - Si e IMC proviene de un REC que proviene de un REC NO puedo&lt;br&gt;REP - Si el REP viene de una EJE NO puedo&lt;br&gt;REP - Si el REP viene de un REC que proviene de un REC NO puedo&lt;br&gt;REP - Si el REP viene de un REC que viene de un CON SI puedo&lt;br&gt;REP - Si el REP viene de un CON SI puedo&lt;br&gt;REC . Si el REC viene de un CON SI puedo&lt;br&gt;REC - Si el REC viene de un REC NO puedo&lt;br&gt;REC - Si el REC viene de un IMC que proviene de un REC NO puedo&lt;br&gt;REC - Si el REC viene de un IMC que que proviene de un CON SI puedo" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=#FFF2CC;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="2150" y="885" width="410" height="230" as="geometry" />
+        <mxCell id="ypyUXCca2VMXUNs-koCW-1" value="APERTURA DE RECURSO&lt;br&gt;Partimos de la base de que no tenga ya un REC abierto&lt;br&gt;-------------------------------------&lt;br&gt;CON - SI puedo&lt;br&gt;IMC - Si viene de CON SI&lt;br&gt;IMC - Si viene de REC que viene de CON SI&lt;br&gt;IMC - Si viene de REC que viene de REC NO&lt;br&gt;REP - Si viene de EJE NO&amp;nbsp;&lt;br&gt;REP - Si viene de REC que viene de REC NO&amp;nbsp;&lt;br&gt;REP - Si viene de un REC que viene de CON SI&amp;nbsp;&lt;br&gt;REP - Si viene de CON SI&amp;nbsp;&lt;br&gt;REC . Si viene de CON SI&amp;nbsp;&lt;br&gt;REC - Si viene de REC NO&amp;nbsp;&lt;br&gt;REC - Si viene de IMC que viene de REC NO&amp;nbsp;&lt;br&gt;REC - Si viene de IMC que viene de CON SI&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=#FFF2CC;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="2150" y="885" width="320" height="230" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
