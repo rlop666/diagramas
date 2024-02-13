@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-13T12:47:15.869Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="Oc9Ev6BdnJqK4Go7yhGg" version="23.1.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-02-13T13:11:42.023Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="UCXLIfHZtQWP7LMAQu-e" version="23.1.4" type="github" pages="2">
   <diagram name="Página-1" id="DgyqjarxZwNVzye8CLjz">
     <mxGraphModel dx="1426" dy="1962" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1390,41 +1390,44 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="w99inHPf0-6FA0Mu7qrj-1" value="GINF" style="swimlane;whiteSpace=wrap;html=1;swimlaneFillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-100" width="140" height="370" as="geometry" />
-        </mxCell>
-        <mxCell id="w99inHPf0-6FA0Mu7qrj-2" value="CON" style="swimlane;whiteSpace=wrap;html=1;swimlaneFillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="40" width="140" height="370" as="geometry" />
-        </mxCell>
-        <mxCell id="w99inHPf0-6FA0Mu7qrj-3" value="GCSL" style="swimlane;whiteSpace=wrap;html=1;swimlaneFillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="180" width="140" height="370" as="geometry" />
-        </mxCell>
-        <mxCell id="Y8X68pRQHRMUxJw1tFiU-6" value="PARTES" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-90" y="130" width="400" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="w99inHPf0-6FA0Mu7qrj-4" value="REC" style="swimlane;whiteSpace=wrap;html=1;swimlaneFillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="320" width="140" height="370" as="geometry" />
-        </mxCell>
-        <mxCell id="w99inHPf0-6FA0Mu7qrj-6" value="EJE" style="swimlane;whiteSpace=wrap;html=1;swimlaneFillColor=default;" vertex="1" parent="1">
+        <mxCell id="w99inHPf0-6FA0Mu7qrj-6" value="EJE" style="swimlane;whiteSpace=wrap;html=1;swimlaneFillColor=default;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="600" width="140" height="370" as="geometry" />
         </mxCell>
-        <mxCell id="w99inHPf0-6FA0Mu7qrj-7" value="DAP" style="swimlane;whiteSpace=wrap;html=1;swimlaneFillColor=default;" vertex="1" parent="1">
+        <mxCell id="w99inHPf0-6FA0Mu7qrj-4" value="REC" style="swimlane;whiteSpace=wrap;html=1;swimlaneFillColor=default;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="320" width="140" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="w99inHPf0-6FA0Mu7qrj-3" value="GCSL" style="swimlane;whiteSpace=wrap;html=1;swimlaneFillColor=default;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="180" width="140" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="w99inHPf0-6FA0Mu7qrj-2" value="CON" style="swimlane;whiteSpace=wrap;html=1;swimlaneFillColor=default;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="40" width="140" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="Y8X68pRQHRMUxJw1tFiU-10" value="SELECCIÓN ÓRGANO JURISDICCINAL" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;backgroundOutline=0;" vertex="1" parent="w99inHPf0-6FA0Mu7qrj-2">
+          <mxGeometry x="10" y="227" width="680" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w99inHPf0-6FA0Mu7qrj-7" value="DAP" style="swimlane;whiteSpace=wrap;html=1;swimlaneFillColor=default;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="740" width="140" height="370" as="geometry" />
         </mxCell>
-        <mxCell id="Y8X68pRQHRMUxJw1tFiU-10" value="SELECCIÓN ÓRGANO JURISDICCINAL" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="50" y="180" width="680" height="30" as="geometry" />
+        <mxCell id="w99inHPf0-6FA0Mu7qrj-1" value="GINF" style="swimlane;whiteSpace=wrap;html=1;swimlaneFillColor=default;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="-100" width="140" height="370" as="geometry" />
         </mxCell>
-        <mxCell id="w99inHPf0-6FA0Mu7qrj-5" value="IMC" style="swimlane;whiteSpace=wrap;html=1;swimlaneFillColor=default;" vertex="1" parent="1">
+        <mxCell id="Y8X68pRQHRMUxJw1tFiU-6" value="PARTES" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="84" width="400" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w99inHPf0-6FA0Mu7qrj-5" value="IMC" style="swimlane;whiteSpace=wrap;html=1;swimlaneFillColor=default;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="460" width="140" height="370" as="geometry" />
         </mxCell>
-        <mxCell id="Y8X68pRQHRMUxJw1tFiU-9" value="SELECCIÓN PARTES" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="330" y="130" width="540" height="30" as="geometry" />
+        <mxCell id="VeWqP7YXRD3ukDx8xcPE-2" value="SELECCIÓN LETRADO" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" vertex="1" parent="w99inHPf0-6FA0Mu7qrj-5">
+          <mxGeometry x="-550" y="40" width="960" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Y8X68pRQHRMUxJw1tFiU-12" value="ACTUACIONES" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="-90" y="280" width="960" height="30" as="geometry" />
+          <mxGeometry x="-90" y="176" width="960" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Y8X68pRQHRMUxJw1tFiU-11" value="DOCUMENTACIÓN" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="-90" y="230" width="960" height="30" as="geometry" />
+          <mxGeometry x="-90" y="130" width="960" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Y8X68pRQHRMUxJw1tFiU-9" value="SELECCIÓN PARTES" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="330" y="84" width="540" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
