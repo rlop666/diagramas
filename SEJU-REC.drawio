@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-13T13:54:52.322Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="g_l0AGberv9bcYCb9hBx" version="23.1.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-02-13T14:05:10.616Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="OPuxqeFjlXmpgmeJbo72" version="23.1.4" type="github" pages="2">
   <diagram name="Página-1" id="DgyqjarxZwNVzye8CLjz">
     <mxGraphModel dx="1426" dy="1962" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1391,52 +1391,61 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="w99inHPf0-6FA0Mu7qrj-6" value="EJE" style="swimlane;whiteSpace=wrap;html=1;swimlaneFillColor=default;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
-          <mxGeometry x="460" width="140" height="400" as="geometry" />
-        </mxCell>
-        <mxCell id="w99inHPf0-6FA0Mu7qrj-4" value="REC" style="swimlane;whiteSpace=wrap;html=1;swimlaneFillColor=default;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
-          <mxGeometry x="320" width="140" height="400" as="geometry" />
+          <mxGeometry x="460" width="140" height="520" as="geometry" />
         </mxCell>
         <mxCell id="w99inHPf0-6FA0Mu7qrj-2" value="CON" style="swimlane;whiteSpace=wrap;html=1;swimlaneFillColor=default;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
-          <mxGeometry x="40" width="140" height="400" as="geometry" />
+          <mxGeometry x="40" width="140" height="520" as="geometry" />
         </mxCell>
         <mxCell id="w99inHPf0-6FA0Mu7qrj-7" value="DAP" style="swimlane;whiteSpace=wrap;html=1;swimlaneFillColor=default;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
-          <mxGeometry x="600" width="140" height="400" as="geometry" />
+          <mxGeometry x="600" width="140" height="520" as="geometry" />
         </mxCell>
         <mxCell id="w99inHPf0-6FA0Mu7qrj-1" value="GINF" style="swimlane;whiteSpace=wrap;html=1;swimlaneFillColor=default;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
-          <mxGeometry x="-100" width="140" height="400" as="geometry" />
+          <mxGeometry x="-100" width="140" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="VeWqP7YXRD3ukDx8xcPE-10" value="RESOLVER COSTAS" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="50" y="371" width="680" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="w99inHPf0-6FA0Mu7qrj-4" value="REC" style="swimlane;whiteSpace=wrap;html=1;swimlaneFillColor=default;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="320" width="140" height="520" as="geometry" />
         </mxCell>
         <mxCell id="Y8X68pRQHRMUxJw1tFiU-9" value="SELECCIÓN PARTES" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="330" y="230" width="400" height="30" as="geometry" />
+          <mxGeometry x="330" y="180" width="400" height="20" as="geometry" />
         </mxCell>
         <mxCell id="VeWqP7YXRD3ukDx8xcPE-7" value="SEL. APODERADO" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" vertex="1" parent="1">
-          <mxGeometry x="50" y="150" width="400" height="30" as="geometry" />
+          <mxGeometry x="50" y="120" width="400" height="20" as="geometry" />
         </mxCell>
         <mxCell id="w99inHPf0-6FA0Mu7qrj-3" value="GCSL" style="swimlane;whiteSpace=wrap;html=1;swimlaneFillColor=default;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
-          <mxGeometry x="180" width="140" height="400" as="geometry" />
+          <mxGeometry x="180" width="140" height="520" as="geometry" />
         </mxCell>
-        <mxCell id="VeWqP7YXRD3ukDx8xcPE-4" value="BÚSQUEDA DE EXPEDINETES" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;" vertex="1" parent="1">
-          <mxGeometry x="-90" y="30" width="820" height="30" as="geometry" />
+        <mxCell id="VeWqP7YXRD3ukDx8xcPE-9" value="RESOLVER" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="341" width="820" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="VeWqP7YXRD3ukDx8xcPE-5" value="SELECCIÓN DE LETRADO" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=left;" vertex="1" parent="1">
-          <mxGeometry x="-90" y="70" width="820" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="VeWqP7YXRD3ukDx8xcPE-6" value="SELECCIÓN DE LETRADO EN COMISIÓN DE SERVICIO" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=left;" vertex="1" parent="1">
-          <mxGeometry x="-90" y="110" width="820" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="VeWqP7YXRD3ukDx8xcPE-3" value="HISTÓRICO DE LETRADOS" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="-90" y="190" width="820" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Y8X68pRQHRMUxJw1tFiU-6" value="PARTES" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-90" y="230" width="400" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Y8X68pRQHRMUxJw1tFiU-11" value="DOCUMENTACIÓN" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-90" y="272" width="820" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Y8X68pRQHRMUxJw1tFiU-12" value="ACTUACIONES" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="-90" y="315" width="820" height="30" as="geometry" />
+        <mxCell id="VeWqP7YXRD3ukDx8xcPE-8" value="ANULAR" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="308" width="820" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Y8X68pRQHRMUxJw1tFiU-10" value="SELECCIÓN ÓRGANO JURISDICCINAL" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;backgroundOutline=0;" vertex="1" parent="1">
-          <mxGeometry x="50" y="357" width="540" height="30" as="geometry" />
+          <mxGeometry x="50" y="277" width="540" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Y8X68pRQHRMUxJw1tFiU-12" value="ACTUACIONES" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="245" width="820" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VeWqP7YXRD3ukDx8xcPE-6" value="SELECCIÓN DE LETRADO EN COMISIÓN DE SERVICIO" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="90" width="820" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VeWqP7YXRD3ukDx8xcPE-5" value="SELECCIÓN DE LETRADO" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="60" width="820" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VeWqP7YXRD3ukDx8xcPE-4" value="BÚSQUEDA DE EXPEDINETES" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="30" width="820" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VeWqP7YXRD3ukDx8xcPE-3" value="HISTÓRICO DE LETRADOS" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="150" width="820" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Y8X68pRQHRMUxJw1tFiU-6" value="PARTES" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="180" width="400" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Y8X68pRQHRMUxJw1tFiU-11" value="DOCUMENTACIÓN" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="212" width="820" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
