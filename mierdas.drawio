@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-14T11:37:05.117Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="a2cFVQE0ufQgsGp1kQMt" version="24.4.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-05-14T11:42:05.631Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="vlAD2SJKA2RrqC4nZJ_O" version="24.4.0" type="github" pages="3">
   <diagram name="Página-1" id="0Frc0wLYxcDbPIDZYO3f">
     <mxGraphModel dx="1603" dy="888" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -246,8 +246,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-20" y="80" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="700" y="60" />
-              <mxPoint x="-20" y="60" />
+              <mxPoint x="700" />
+              <mxPoint x="-20" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -290,15 +290,15 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hVxV2FQC2-hBlVRTOC0l-1" value="En la parte vieja aparece una pantalla intermedia pero no deja hacer nada, en lo nuevo no se mete" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;shadow=1;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="480" width="270" height="30" as="geometry" />
+          <mxGeometry x="420" y="80" width="270" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p13mp0VxMJitqJNBE8Ms-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p13mp0VxMJitqJNBE8Ms-6" target="Mz8hdvP4rmBgia9Ii-TD-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="p13mp0VxMJitqJNBE8Ms-1" value="MODIFICACIÓN CON RESUELTO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="p13mp0VxMJitqJNBE8Ms-1" value="SERVICIO GESTIÓN CON" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-80" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="p13mp0VxMJitqJNBE8Ms-3" value="MODIFICACIÓN REC RESUELTO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="p13mp0VxMJitqJNBE8Ms-3" value="SERVICIO GESTIÓN REC" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-80" y="200" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
