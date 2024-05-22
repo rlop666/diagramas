@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-22T07:54:29.442Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="euBtKWivrKkNQ_kCNQuO" version="24.4.4" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-05-22T08:24:56.780Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="0p9nsTYenoDsn4_0uHtW" version="24.4.4" type="github" pages="7">
   <diagram name="Página-1" id="0Frc0wLYxcDbPIDZYO3f">
     <mxGraphModel dx="1603" dy="888" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -333,7 +333,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="WmFtU_MEl1-fnmDOUq4k" name="EJE">
-    <mxGraphModel dx="1042" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1303" dy="721" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -436,6 +436,15 @@
               <mxPoint x="459" y="170" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="gFwWFZp8ErXvxd3cKfSN-1" value="MODIFICAR EJE RESUELTA" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8000;" vertex="1" parent="1">
+          <mxGeometry x="610" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gFwWFZp8ErXvxd3cKfSN-2" value="MODIFICAR SENTENCIA" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8000;" vertex="1" parent="1">
+          <mxGeometry x="610" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gFwWFZp8ErXvxd3cKfSN-3" value="MIGRACIÓN EJE" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8000;" vertex="1" parent="1">
+          <mxGeometry x="610" y="680" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
