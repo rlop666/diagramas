@@ -1187,7 +1187,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="fA-XQKaOQpkMYBD3d70g" name="PRUEBAS">
-    <mxGraphModel dx="2977" dy="1643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2849" dy="1278" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1223,36 +1223,6 @@
         </mxCell>
         <mxCell id="qaGDQmAMHsNGnd6ranJo-6" value="LETRADO EN COMISIÓN" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="280" width="200" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="qaGDQmAMHsNGnd6ranJo-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qaGDQmAMHsNGnd6ranJo-7" target="qaGDQmAMHsNGnd6ranJo-9">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="qaGDQmAMHsNGnd6ranJo-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qaGDQmAMHsNGnd6ranJo-7" target="qaGDQmAMHsNGnd6ranJo-10">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="qaGDQmAMHsNGnd6ranJo-7" value="NUEVO DOCUMENTO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="320" width="200" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="qaGDQmAMHsNGnd6ranJo-9" value="MODIFICAR DOCUMENTO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="320" width="200" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="qaGDQmAMHsNGnd6ranJo-10" value="ELIMINAR DOCUMENTO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="360" width="200" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="qaGDQmAMHsNGnd6ranJo-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qaGDQmAMHsNGnd6ranJo-17" target="qaGDQmAMHsNGnd6ranJo-18">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="qaGDQmAMHsNGnd6ranJo-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qaGDQmAMHsNGnd6ranJo-17" target="qaGDQmAMHsNGnd6ranJo-19">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="qaGDQmAMHsNGnd6ranJo-17" value="NUEVA ACTUACIÓN" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="400" width="200" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="qaGDQmAMHsNGnd6ranJo-18" value="MODIFICAR ACTUACIÓN" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="400" width="200" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="qaGDQmAMHsNGnd6ranJo-19" value="ELIMINAR ACTUACIÓN" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="440" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qaGDQmAMHsNGnd6ranJo-23" value="ANTECEDENTES" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="440" width="200" height="30" as="geometry" />
@@ -1735,6 +1705,48 @@
         </mxCell>
         <mxCell id="qaGDQmAMHsNGnd6ranJo-187" value="GESTIÓN RESUELTO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="1360" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qaGDQmAMHsNGnd6ranJo-192" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="560" y="320" width="480" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qaGDQmAMHsNGnd6ranJo-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qaGDQmAMHsNGnd6ranJo-192" source="qaGDQmAMHsNGnd6ranJo-7" target="qaGDQmAMHsNGnd6ranJo-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qaGDQmAMHsNGnd6ranJo-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="qaGDQmAMHsNGnd6ranJo-192" source="qaGDQmAMHsNGnd6ranJo-7" target="qaGDQmAMHsNGnd6ranJo-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qaGDQmAMHsNGnd6ranJo-7" value="NUEVO DOCUMENTO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="qaGDQmAMHsNGnd6ranJo-192">
+          <mxGeometry width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qaGDQmAMHsNGnd6ranJo-9" value="MODIFICAR DOCUMENTO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="qaGDQmAMHsNGnd6ranJo-192">
+          <mxGeometry x="280" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qaGDQmAMHsNGnd6ranJo-10" value="ELIMINAR DOCUMENTO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="qaGDQmAMHsNGnd6ranJo-192">
+          <mxGeometry x="280" y="40" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qaGDQmAMHsNGnd6ranJo-193" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="560" y="400" width="480" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qaGDQmAMHsNGnd6ranJo-17" value="NUEVA ACTUACIÓN" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="qaGDQmAMHsNGnd6ranJo-193">
+          <mxGeometry width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qaGDQmAMHsNGnd6ranJo-18" value="MODIFICAR ACTUACIÓN" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="qaGDQmAMHsNGnd6ranJo-193">
+          <mxGeometry x="280" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qaGDQmAMHsNGnd6ranJo-19" value="ELIMINAR ACTUACIÓN" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="qaGDQmAMHsNGnd6ranJo-193">
+          <mxGeometry x="280" y="40" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qaGDQmAMHsNGnd6ranJo-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qaGDQmAMHsNGnd6ranJo-193" source="qaGDQmAMHsNGnd6ranJo-17" target="qaGDQmAMHsNGnd6ranJo-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qaGDQmAMHsNGnd6ranJo-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="qaGDQmAMHsNGnd6ranJo-193" source="qaGDQmAMHsNGnd6ranJo-17" target="qaGDQmAMHsNGnd6ranJo-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qaGDQmAMHsNGnd6ranJo-195" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="qaGDQmAMHsNGnd6ranJo-194" target="qaGDQmAMHsNGnd6ranJo-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qaGDQmAMHsNGnd6ranJo-194" value="Al volver pierde los documentos y las actuaciones" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1111" y="960" width="229" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
