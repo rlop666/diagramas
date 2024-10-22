@@ -1187,7 +1187,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="fA-XQKaOQpkMYBD3d70g" name="PRUEBAS 20241018">
-    <mxGraphModel dx="2194" dy="1217" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5704" dy="3164" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2452,7 +2452,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Lf7hB-V78BjbDlKUhi8y-100" value="al volver pierde todos los datos menos el órg. juris. Mete null en exp relacionados" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="3280" y="280" width="330" height="40" as="geometry" />
+          <mxGeometry x="3280" y="280" width="330" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Lf7hB-V78BjbDlKUhi8y-102" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="3000" y="400" width="480" height="70" as="geometry" />
@@ -2644,7 +2644,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Lf7hB-V78BjbDlKUhi8y-163" value="Vuelve a la gestión del REC en lugar de a la apertura del IMC" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="3270" y="1036" width="229" height="40" as="geometry" />
+          <mxGeometry x="3280" y="1041" width="229" height="29" as="geometry" />
         </mxCell>
         <mxCell id="Lf7hB-V78BjbDlKUhi8y-164" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="3000" y="1121" width="480" height="70" as="geometry" />
