@@ -4227,7 +4227,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copia de PRUEBAS 20241018" id="OnH7m_W6CYDWdaPK6qiB">
-    <mxGraphModel dx="2037" dy="1130" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1678" dy="931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="an7L8HEZdbr2qW92W_fS-0" />
         <mxCell id="an7L8HEZdbr2qW92W_fS-1" parent="an7L8HEZdbr2qW92W_fS-0" />
@@ -7260,10 +7260,10 @@
         <mxCell id="AMnhpJxS91IijzbxZv1l-1" value="LETRADO COMISIÓN" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="an7L8HEZdbr2qW92W_fS-1">
           <mxGeometry x="1400" y="2360" width="200" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="AMnhpJxS91IijzbxZv1l-4" value="DETALLE REC" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="an7L8HEZdbr2qW92W_fS-1">
+        <mxCell id="AMnhpJxS91IijzbxZv1l-4" value="DETALLE REC" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="an7L8HEZdbr2qW92W_fS-1">
           <mxGeometry x="840" y="480" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AMnhpJxS91IijzbxZv1l-6" value="nullPointer" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="an7L8HEZdbr2qW92W_fS-1">
+        <mxCell id="AMnhpJxS91IijzbxZv1l-6" value="vuelve a la búsqueda en lugar de al detalle" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="an7L8HEZdbr2qW92W_fS-1">
           <mxGeometry x="1120" y="480" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AMnhpJxS91IijzbxZv1l-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.975;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="an7L8HEZdbr2qW92W_fS-1" source="AMnhpJxS91IijzbxZv1l-6" target="AMnhpJxS91IijzbxZv1l-4">
