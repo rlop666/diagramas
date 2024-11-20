@@ -7307,20 +7307,20 @@
         <mxCell id="AMnhpJxS91IijzbxZv1l-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="an7L8HEZdbr2qW92W_fS-1" source="AMnhpJxS91IijzbxZv1l-21" target="AMnhpJxS91IijzbxZv1l-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AMnhpJxS91IijzbxZv1l-21" value="APERTURA" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="an7L8HEZdbr2qW92W_fS-1">
-          <mxGeometry x="280" y="7070" width="200" height="30" as="geometry" />
+        <mxCell id="AMnhpJxS91IijzbxZv1l-21" value="AMPLIACIÓN" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="an7L8HEZdbr2qW92W_fS-1">
+          <mxGeometry x="280" y="7360" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AMnhpJxS91IijzbxZv1l-22" value="ÓRGANO JURISDICCIONAL" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="an7L8HEZdbr2qW92W_fS-1">
-          <mxGeometry x="560" y="7070" width="200" height="30" as="geometry" />
+          <mxGeometry x="560" y="7360" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AMnhpJxS91IijzbxZv1l-23" value="LETRADO EN COMISIÓN" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="an7L8HEZdbr2qW92W_fS-1">
-          <mxGeometry x="560" y="7110" width="200" height="30" as="geometry" />
+          <mxGeometry x="560" y="7400" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AMnhpJxS91IijzbxZv1l-24" value="ANTECEDENTES" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="an7L8HEZdbr2qW92W_fS-1">
-          <mxGeometry x="560" y="7270" width="200" height="30" as="geometry" />
+          <mxGeometry x="560" y="7560" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AMnhpJxS91IijzbxZv1l-25" value="" style="group" vertex="1" connectable="0" parent="an7L8HEZdbr2qW92W_fS-1">
-          <mxGeometry x="560" y="7150" width="480" height="70" as="geometry" />
+          <mxGeometry x="560" y="7440" width="480" height="70" as="geometry" />
         </mxCell>
         <mxCell id="AMnhpJxS91IijzbxZv1l-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="AMnhpJxS91IijzbxZv1l-25" source="AMnhpJxS91IijzbxZv1l-28" target="AMnhpJxS91IijzbxZv1l-29">
           <mxGeometry relative="1" as="geometry" />
@@ -7338,7 +7338,7 @@
           <mxGeometry x="280" y="40" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AMnhpJxS91IijzbxZv1l-31" value="" style="group" vertex="1" connectable="0" parent="an7L8HEZdbr2qW92W_fS-1">
-          <mxGeometry x="560" y="7230" width="480" height="70" as="geometry" />
+          <mxGeometry x="560" y="7520" width="480" height="70" as="geometry" />
         </mxCell>
         <mxCell id="AMnhpJxS91IijzbxZv1l-32" value="NUEVA ACTUACIÓN" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="AMnhpJxS91IijzbxZv1l-31">
           <mxGeometry width="200" height="30" as="geometry" />
