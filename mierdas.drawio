@@ -5814,7 +5814,7 @@
         <mxCell id="an7L8HEZdbr2qW92W_fS-578" value="ÓRGANO JURISDICCIONAL" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="an7L8HEZdbr2qW92W_fS-1" vertex="1">
           <mxGeometry x="3280" y="1801" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="an7L8HEZdbr2qW92W_fS-579" value="DETALLE REP" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="an7L8HEZdbr2qW92W_fS-1" vertex="1">
+        <mxCell id="an7L8HEZdbr2qW92W_fS-579" value="DETALLE REP" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="an7L8HEZdbr2qW92W_fS-1" vertex="1">
           <mxGeometry x="3000" y="1961" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="an7L8HEZdbr2qW92W_fS-585" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="an7L8HEZdbr2qW92W_fS-1" source="an7L8HEZdbr2qW92W_fS-586" target="an7L8HEZdbr2qW92W_fS-587" edge="1">
@@ -7448,12 +7448,6 @@
         <mxCell id="v4YTg-mPJRx8TLbU0ILC-3" value="GESTIÓN REP" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="an7L8HEZdbr2qW92W_fS-1" vertex="1">
           <mxGeometry x="3000" y="2001" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="v4YTg-mPJRx8TLbU0ILC-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="an7L8HEZdbr2qW92W_fS-1" source="v4YTg-mPJRx8TLbU0ILC-5" target="an7L8HEZdbr2qW92W_fS-579" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="v4YTg-mPJRx8TLbU0ILC-5" value="acción desconocida al volver" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#fff2cc;strokeColor=#d6b656;" parent="an7L8HEZdbr2qW92W_fS-1" vertex="1">
-          <mxGeometry x="3240" y="1960" width="229" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="v4YTg-mPJRx8TLbU0ILC-7" value="DETALLE PADRE" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="an7L8HEZdbr2qW92W_fS-1" vertex="1">
           <mxGeometry x="3280" y="2001" width="200" height="30" as="geometry" />
         </mxCell>
@@ -7499,14 +7493,8 @@
         <mxCell id="v4YTg-mPJRx8TLbU0ILC-32" value="ANULAR REP" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="an7L8HEZdbr2qW92W_fS-1" vertex="1">
           <mxGeometry x="3000" y="2520" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="v4YTg-mPJRx8TLbU0ILC-33" value="DETALLE PADRE" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="an7L8HEZdbr2qW92W_fS-1" vertex="1">
+        <mxCell id="v4YTg-mPJRx8TLbU0ILC-33" value="DETALLE PADRE" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="an7L8HEZdbr2qW92W_fS-1" vertex="1">
           <mxGeometry x="3280" y="2520" width="200" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="v4YTg-mPJRx8TLbU0ILC-36" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" parent="an7L8HEZdbr2qW92W_fS-1" source="v4YTg-mPJRx8TLbU0ILC-35" target="v4YTg-mPJRx8TLbU0ILC-33" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="v4YTg-mPJRx8TLbU0ILC-35" value="acción desconocida" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#fff2cc;strokeColor=#d6b656;" parent="an7L8HEZdbr2qW92W_fS-1" vertex="1">
-          <mxGeometry x="3550" y="2520" width="229" height="30" as="geometry" />
         </mxCell>
         <mxCell id="v4YTg-mPJRx8TLbU0ILC-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="an7L8HEZdbr2qW92W_fS-1" source="v4YTg-mPJRx8TLbU0ILC-38" target="v4YTg-mPJRx8TLbU0ILC-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
