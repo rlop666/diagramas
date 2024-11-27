@@ -4227,7 +4227,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copia de PRUEBAS 20241018" id="OnH7m_W6CYDWdaPK6qiB">
-    <mxGraphModel dx="1737" dy="958" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2605" dy="1438" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="an7L8HEZdbr2qW92W_fS-0" />
         <mxCell id="an7L8HEZdbr2qW92W_fS-1" parent="an7L8HEZdbr2qW92W_fS-0" />
@@ -4686,7 +4686,7 @@
         <mxCell id="an7L8HEZdbr2qW92W_fS-150" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="an7L8HEZdbr2qW92W_fS-1" source="an7L8HEZdbr2qW92W_fS-151" target="an7L8HEZdbr2qW92W_fS-164" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="an7L8HEZdbr2qW92W_fS-151" value="GESTIÓN" style="rounded=1;whiteSpace=wrap;html=1;" parent="an7L8HEZdbr2qW92W_fS-1" vertex="1">
+        <mxCell id="an7L8HEZdbr2qW92W_fS-151" value="GESTIÓN" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="an7L8HEZdbr2qW92W_fS-1" vertex="1">
           <mxGeometry x="4720" y="400" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="an7L8HEZdbr2qW92W_fS-152" value="DETALLE PADRE" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="an7L8HEZdbr2qW92W_fS-1" vertex="1">
@@ -4929,7 +4929,7 @@
         <mxCell id="an7L8HEZdbr2qW92W_fS-229" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="an7L8HEZdbr2qW92W_fS-1" source="an7L8HEZdbr2qW92W_fS-230" target="an7L8HEZdbr2qW92W_fS-966" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="an7L8HEZdbr2qW92W_fS-230" value="ALTA" style="rounded=1;whiteSpace=wrap;html=1;" parent="an7L8HEZdbr2qW92W_fS-1" vertex="1">
+        <mxCell id="an7L8HEZdbr2qW92W_fS-230" value="ALTA" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="an7L8HEZdbr2qW92W_fS-1" vertex="1">
           <mxGeometry x="4440" y="1160" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="an7L8HEZdbr2qW92W_fS-231" value="ÓRGANO JURISDICCIONAL" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="an7L8HEZdbr2qW92W_fS-1" vertex="1">
@@ -4986,10 +4986,10 @@
         <mxCell id="an7L8HEZdbr2qW92W_fS-254" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="an7L8HEZdbr2qW92W_fS-1" source="an7L8HEZdbr2qW92W_fS-255" target="an7L8HEZdbr2qW92W_fS-256" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="an7L8HEZdbr2qW92W_fS-255" value="ANULAR" style="rounded=1;whiteSpace=wrap;html=1;" parent="an7L8HEZdbr2qW92W_fS-1" vertex="1">
+        <mxCell id="an7L8HEZdbr2qW92W_fS-255" value="ANULAR" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="an7L8HEZdbr2qW92W_fS-1" vertex="1">
           <mxGeometry x="4720" y="910" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="an7L8HEZdbr2qW92W_fS-256" value="DETALLE PADRE" style="rounded=1;whiteSpace=wrap;html=1;" parent="an7L8HEZdbr2qW92W_fS-1" vertex="1">
+        <mxCell id="an7L8HEZdbr2qW92W_fS-256" value="DETALLE PADRE" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="an7L8HEZdbr2qW92W_fS-1" vertex="1">
           <mxGeometry x="5000" y="910" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="an7L8HEZdbr2qW92W_fS-257" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="an7L8HEZdbr2qW92W_fS-1" source="an7L8HEZdbr2qW92W_fS-258" target="an7L8HEZdbr2qW92W_fS-255" edge="1">
@@ -6825,13 +6825,13 @@
         <mxCell id="5JbeqPs4l_Xive7UJGD2-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="an7L8HEZdbr2qW92W_fS-1" source="an7L8HEZdbr2qW92W_fS-966" target="5JbeqPs4l_Xive7UJGD2-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="an7L8HEZdbr2qW92W_fS-966" value="BÚSQUEDA" style="rounded=1;whiteSpace=wrap;html=1;" parent="an7L8HEZdbr2qW92W_fS-1" vertex="1">
+        <mxCell id="an7L8HEZdbr2qW92W_fS-966" value="BÚSQUEDA" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="an7L8HEZdbr2qW92W_fS-1" vertex="1">
           <mxGeometry x="4720" y="1160" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="an7L8HEZdbr2qW92W_fS-967" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="an7L8HEZdbr2qW92W_fS-1" source="an7L8HEZdbr2qW92W_fS-968" target="an7L8HEZdbr2qW92W_fS-232" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="an7L8HEZdbr2qW92W_fS-968" value="ALTA" style="rounded=1;whiteSpace=wrap;html=1;" parent="an7L8HEZdbr2qW92W_fS-1" vertex="1">
+        <mxCell id="an7L8HEZdbr2qW92W_fS-968" value="ALTA" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="an7L8HEZdbr2qW92W_fS-1" vertex="1">
           <mxGeometry x="5000" y="1200" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="an7L8HEZdbr2qW92W_fS-969" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="an7L8HEZdbr2qW92W_fS-1" source="an7L8HEZdbr2qW92W_fS-977" target="an7L8HEZdbr2qW92W_fS-983" edge="1">
@@ -6932,12 +6932,6 @@
         </mxCell>
         <mxCell id="an7L8HEZdbr2qW92W_fS-1005" value="DETALLE REC" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="an7L8HEZdbr2qW92W_fS-1" vertex="1">
           <mxGeometry x="2720" y="6070" width="200" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="an7L8HEZdbr2qW92W_fS-1006" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="an7L8HEZdbr2qW92W_fS-1" source="an7L8HEZdbr2qW92W_fS-1007" target="an7L8HEZdbr2qW92W_fS-966" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="an7L8HEZdbr2qW92W_fS-1007" value="&lt;div&gt;Si se busca sin filtros, por ejemplo, sólo expedientes contenciosos de Ávila, recupera 544 resultados y los muestra sin problema, si se añade otro filtro, por ejemplo, la jurisdicción, sale el mensaje ‘Búsqueda extensa. Se han encontrado 150 Expedientes Contenciosos. Puede descargar el fichero en formato Excel.’.&amp;nbsp;&lt;/div&gt;&lt;div&gt;Debería comportarse siempre igual.&amp;nbsp;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#fff2cc;strokeColor=#d6b656;" parent="an7L8HEZdbr2qW92W_fS-1" vertex="1">
-          <mxGeometry x="4660" y="1241" width="320" height="110" as="geometry" />
         </mxCell>
         <mxCell id="AMnhpJxS91IijzbxZv1l-0" value="CONSULTA DOCUMENTACIÓN" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="an7L8HEZdbr2qW92W_fS-1" vertex="1">
           <mxGeometry x="1400" y="2320" width="200" height="30" as="geometry" />
@@ -7588,6 +7582,12 @@
         </mxCell>
         <mxCell id="5JbeqPs4l_Xive7UJGD2-4" value="LETRADO EN COMISIÓN" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="an7L8HEZdbr2qW92W_fS-1">
           <mxGeometry x="5560" y="960" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5JbeqPs4l_Xive7UJGD2-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="an7L8HEZdbr2qW92W_fS-1" source="5JbeqPs4l_Xive7UJGD2-6" target="an7L8HEZdbr2qW92W_fS-256">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5JbeqPs4l_Xive7UJGD2-6" value="No saca el detalle, dice que no existe ninguna eje con ese código" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="an7L8HEZdbr2qW92W_fS-1">
+          <mxGeometry x="5240" y="940" width="250" height="29" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
