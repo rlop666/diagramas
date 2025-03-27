@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="26.1.3">
   <diagram name="Página-1" id="8mPneK7-50EK6AkMiMIO">
-    <mxGraphModel dx="3204" dy="2484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="7957" dy="5114" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -221,57 +221,57 @@
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="SJCO" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-49">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="20" y="3030" width="120" height="60" as="geometry" />
+            <mxGeometry x="1070" y="-200" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="FSED" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-50">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="20" y="3100" width="120" height="60" as="geometry" />
+            <mxGeometry x="1070" y="-130" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="GCNT" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-51">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="20" y="3170" width="120" height="60" as="geometry" />
+            <mxGeometry x="1070" y="-60" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="GCSL" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-52">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="20" y="3240" width="120" height="60" as="geometry" />
+            <mxGeometry x="1070" y="10" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="SEJU" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-53">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="20" y="3310" width="120" height="60" as="geometry" />
+            <mxGeometry x="1070" y="80" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="Migrar a GITLAB" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-54">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="20" y="3380" width="120" height="60" as="geometry" />
+            <mxGeometry x="1070" y="150" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="Migrar a GITLAB" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-55">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="20" y="3450" width="120" height="60" as="geometry" />
+            <mxGeometry x="1070" y="220" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="Migrar a GITLAB" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-56">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="20" y="3520" width="120" height="60" as="geometry" />
+            <mxGeometry x="1070" y="290" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="Migrar a GITLAB" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-57">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="20" y="3590" width="120" height="60" as="geometry" />
+            <mxGeometry x="1070" y="360" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="Migrar a GITLAB" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-58">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="20" y="3660" width="120" height="60" as="geometry" />
+            <mxGeometry x="1070" y="430" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="Migrar a GITLAB&quot;,&quot;GCNT" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-59">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="20" y="3730" width="120" height="60" as="geometry" />
+            <mxGeometry x="1070" y="500" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="GINF" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-60">
