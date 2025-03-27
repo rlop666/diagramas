@@ -1,277 +1,262 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="26.1.3">
   <diagram name="Página-1" id="8mPneK7-50EK6AkMiMIO">
-    <mxGraphModel dx="7957" dy="5114" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4159" dy="2097" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="HECHAS FUERA DE SPRINT,&quot;SPRINT 1&quot;,&quot;SPRINT 2&quot;,&quot;SPRINT 3&quot;,&quot;SPRINT 4&quot;,&quot;SPRINT 5&quot;,&quot;SPRINT 6&quot;,&quot;SPRINT 7&quot;,&quot;SPRINT 8&quot;,&quot;SPRINT 9&quot;,&quot;SPRINT 10&quot;,&quot;SPRINT 11&quot;,&quot;SPRINT 12&quot;,&quot;SPRINT 13&quot;,&quot;SPRINT 14&quot;,&quot;SPRINT 15&quot;,&quot;SPRINT 16&quot;,&quot;SPRINT 17&quot;,&quot;SPRINT 18&quot;,&quot;SPRINT 19&quot;,&quot;SPRINT 20&quot;,&quot;SPRINT 21&quot;,&quot;SPRINT 22&quot;,&quot;SPRINT 23&quot;,&quot;SPRINT 24&quot;,&quot;SPRINT 25&quot;,&quot;SPRINT 26&quot;,&quot;SPRINT 27&quot;,&quot;SPRINT 28&quot;,&quot;SPRINT 29&quot;,&quot;SPRINT 30&quot;,&quot;SPRINT 31&quot;,&quot;SPRINT 32&quot;,&quot;SPRINT 33&quot;,&quot;SPRINT 34&quot;" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-6">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="20" y="20" width="120" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="GCNT" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-7">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="230" y="-200" width="120" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="GCSL" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-8">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="230" y="-130" width="120" height="60" as="geometry" />
+            <mxGeometry x="-2107" y="-200" width="119" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="INFORMES MADRID" modificaci_n_de_expediente_resuelto=" LISTA DE LETRADOS OBTENERLOS DE LA TABLA ADPROPIEDADES. (439)" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-9">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="230" y="-60" width="120" height="60" as="geometry" />
+            <mxGeometry x="-2107" y="-130" width="119" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="En el buscador en el campo num Expediente" modificaci_n_de_expediente_resuelto=" validar que solo puedan meter números. Ahora deja meter cualquier cosa y sale nullpointer." placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-10">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="380" y="-130" width="120" height="60" as="geometry" />
+            <mxGeometry x="-1957" y="-130" width="119" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="Eliminar la firma del informe de notificación de sentencia que se genera para Madrid (existe un informe específico para Madrid)" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-11">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="230" y="10" width="120" height="120" as="geometry" />
+            <mxGeometry x="-2107" y="-60" width="119" height="120" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="En la gestión bailan  las secciones demandante y demandado" modificaci_n_de_expediente_resuelto=" pero saca bien las partes. Estas secciones las dejamos fijas" modificaci_n_de_sentencia_y_consulta_de_procedimientos_judiciales_479_Incorporar_REP_en_los_servicios_de_consulta=" para el resto de servicios. (445)" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-12">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="230" y="140" width="120" height="60" as="geometry" />
+            <mxGeometry x="-2107" y="70" width="119" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="El SW de letrados no devuelve datos para los centrales y DSJ" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-13">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="230" y="220" width="120" height="60" as="geometry" />
+            <mxGeometry x="-2107" y="140" width="119" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="Para el SJ INGESA (79)" modificaci_n_de_expediente_resuelto="Urge" modificaci_n_de_sentencia_y_consulta_de_procedimientos_judiciales_479_Incorporar_REP_en_los_servicios_de_consulta="" modificaci_n_de_sentencia_y_consulta_de_procedimientos_judiciales_478_Modificar_las_notas_internas_para_que_saque_la_parte_con_DNI_DUPLICADO_480_Validaci_n_CIF="GCNT" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-14">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="230" y="290" width="120" height="60" as="geometry" />
+            <mxGeometry x="-2107" y="210" width="119" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="GCSL" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-15">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="380" y="-200" width="120" height="60" as="geometry" />
+            <mxGeometry x="-1957" y="-200" width="119" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="SEJU" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-16">
+        <UserObject label="GCSL" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="SEJU" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-16">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="70" y="670" width="120" height="60" as="geometry" />
+            <mxGeometry x="-1567" y="-200" width="119" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="Poder cambiar el letrado a una fecha posterior de la fecha de apertura. Añadir un campo nuevo fecha letrado. (Servicio de Gestión y Modificación de Exp resuelto)" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-17">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="20" y="790" width="120" height="60" as="geometry" />
+            <mxGeometry x="-1707" y="-130" width="119" height="130" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="Arreglar las actuaciones del concursal" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-18">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="20" y="860" width="120" height="60" as="geometry" />
+            <mxGeometry x="-1567" y="-130" width="119" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="Migración REP a la tabla nueva de CTRECURSOPREVIO (431-452)" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-19">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="20" y="930" width="120" height="60" as="geometry" />
+            <mxGeometry x="-1427" y="-130" width="119" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="El literal ‘Actúa como’ en la pantalla de alta del expediente lleva la palabra ‘Actúa’ sin acentuar. (está ya arreglado en el alta normal" modificaci_n_de_expediente_resuelto=" faltaría en el alta del Registro)" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-20">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="20" y="1000" width="120" height="60" as="geometry" />
+            <mxGeometry x="-1707" y="10" width="119" height="110" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="AÑADIR EXPORTACIÓN EXCEL DE 100-500 REGISTROS" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-21">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="20" y="1070" width="120" height="60" as="geometry" />
+            <mxGeometry x="-1567" y="-60" width="119" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="Cambiar ‘Documento de la Demanda’ por ‘Demanda’" modificaci_n_de_expediente_resuelto=" simplemente." placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-22">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="20" y="1140" width="120" height="60" as="geometry" />
+            <mxGeometry x="-1707" y="130" width="119" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="En el servicio de modificación de expediente con. resuelto, cuando la entidad actúa como demandada, al ir a guardar el expediente da el mensaje: &#39;Es obligatorio introducir una parte Contraria&#39;&quot;,&quot;GCNT" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-23">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="-110" y="1210" width="120" height="60" as="geometry" />
+            <mxGeometry x="-1707" y="200" width="119" height="170" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="GCSL" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-24">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="590" y="-200" width="120" height="60" as="geometry" />
+            <mxGeometry x="-1072" y="-200" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="SEJU" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-25">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="590" y="-130" width="120" height="60" as="geometry" />
+            <mxGeometry x="-942" y="-200" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="COMUNES" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-26">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="590" y="-60" width="120" height="60" as="geometry" />
+            <mxGeometry x="-812" y="-200" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="Migración de los REP antiguos a la nueva tabla REP" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-27">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="590" y="10" width="120" height="60" as="geometry" />
+            <mxGeometry x="-1202" y="-130" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="En el buscador de consulta no carga el servicio jurídico por defecto." placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-28">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="590" y="80" width="120" height="60" as="geometry" />
+            <mxGeometry x="-1072" y="-130" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="En la apertura de Recurso desde WF" modificaci_n_de_expediente_resuelto=" añadir el idexpPadre." placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-29">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="590" y="150" width="120" height="60" as="geometry" />
+            <mxGeometry x="-942" y="-130" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="Migración DNI a IPF para todas las apps" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-30">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="590" y="220" width="120" height="60" as="geometry" />
+            <mxGeometry x="-812" y="-130" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="Nueva Documentación (454)" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-31">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="590" y="290" width="120" height="60" as="geometry" />
+            <mxGeometry x="-1202" y="-60" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="Problemas con la generación del Excel de exportación cuando tenemos más de 100 resultados." placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-32">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="590" y="360" width="120" height="60" as="geometry" />
+            <mxGeometry x="-1072" y="-60" width="120" height="80" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="AL aperturar un recurso de un contencioso de años anteriores da error" modificaci_n_de_expediente_resuelto=" porque coge el año del sistema" modificaci_n_de_sentencia_y_consulta_de_procedimientos_judiciales_479_Incorporar_REP_en_los_servicios_de_consulta=" en lugar del año del epediente padre." placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-33">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="590" y="430" width="120" height="60" as="geometry" />
+            <mxGeometry x="-1202" y="10" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="Estudio reglas candidatas a críticas Kiuwan (446)" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-34">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="590" y="500" width="120" height="60" as="geometry" />
+            <mxGeometry x="-1072" y="30" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="Arreglos reglas candidatas a críticas Kiuwan&quot;,&quot;GCNT" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-35">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="590" y="570" width="120" height="60" as="geometry" />
+            <mxGeometry x="-1072" y="100" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="GCSL" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-36">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="850" y="-200" width="120" height="60" as="geometry" />
+            <mxGeometry x="-460" y="-200" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="GINF" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-37">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="850" y="-130" width="120" height="60" as="geometry" />
+            <mxGeometry x="-330" y="-200" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="SEJU" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-38">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="850" y="-60" width="120" height="60" as="geometry" />
+            <mxGeometry x="-200" y="-200" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="COMUNES" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-39">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="850" y="10" width="120" height="60" as="geometry" />
+            <mxGeometry x="-70" y="-200" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="SJCO" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-40">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="850" y="80" width="120" height="60" as="geometry" />
+            <mxGeometry x="60" y="-200" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="Arreglos reglas candidatas a críticas Kiuwan" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-41">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="850" y="150" width="120" height="60" as="geometry" />
+            <mxGeometry x="-590" y="-130" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="Como probar el batch de migración de DNI a IPF en producción. TablaAux." placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-42">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="850" y="220" width="120" height="60" as="geometry" />
+            <mxGeometry x="-200" y="-130" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="Arreglos kiuwan en el resto de apps por modificaciones en SJCO (459)" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-43">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="850" y="290" width="120" height="60" as="geometry" />
+            <mxGeometry x="-70" y="-130" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="Arreglos reglas candidatas a críticas Kiuwan (449)" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-44">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="850" y="360" width="120" height="60" as="geometry" />
+            <mxGeometry x="60" y="-130" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="Arreglos reglas candidatas a críticas Kiuwan (446)" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-45">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="850" y="430" width="120" height="60" as="geometry" />
+            <mxGeometry x="-330" y="-130" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="En el buscador de gestión no carga el servicio jurídico por defecto." placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-46">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="850" y="500" width="120" height="60" as="geometry" />
+            <mxGeometry x="-460" y="-130" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="Permitir añadir expedientes con  tipo apertura registro para el año en curso" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-47">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="850" y="570" width="120" height="60" as="geometry" />
+            <mxGeometry x="-460" y="-60" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="Las partes del recurso previo al guardarlas se guarda con otro IDPARTE distinto al del padre cuando es la misma parte intentando montar el IPF Y LO HACE COMO nullXXXXXXnullnull, porque no valida que el ipf que consulta sea correcto.,,IPF&quot;,&quot;GEAP" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-48">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="850" y="640" width="120" height="210" as="geometry" />
+            <mxGeometry x="-460" y="10" width="120" height="210" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="SJCO" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-49">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="1070" y="-200" width="120" height="60" as="geometry" />
+            <mxGeometry x="790" y="-200" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="FSED" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-50">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="1070" y="-130" width="120" height="60" as="geometry" />
+            <mxGeometry x="920" y="-200" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="GCNT" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-51">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="1070" y="-60" width="120" height="60" as="geometry" />
+            <mxGeometry x="270" y="-200" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="GCSL" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-52">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="1070" y="10" width="120" height="60" as="geometry" />
+            <mxGeometry x="400" y="-200" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="SEJU" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-53">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="1070" y="80" width="120" height="60" as="geometry" />
+            <mxGeometry x="530" y="-200" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="Migrar a GITLAB" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-54">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="1070" y="150" width="120" height="60" as="geometry" />
+            <mxGeometry x="270" y="-130" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="Migrar a GITLAB" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-55">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="1070" y="220" width="120" height="60" as="geometry" />
+            <mxGeometry x="400" y="-130" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="Migrar a GITLAB" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-56">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="1070" y="290" width="120" height="60" as="geometry" />
+            <mxGeometry x="530" y="-130" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="Migrar a GITLAB" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-57">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="1070" y="360" width="120" height="60" as="geometry" />
+            <mxGeometry x="660" y="-130" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="Migrar a GITLAB" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-58">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="1070" y="430" width="120" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="Migrar a GITLAB&quot;,&quot;GCNT" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-59">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="1070" y="500" width="120" height="60" as="geometry" />
+            <mxGeometry x="790" y="-130" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="GINF" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-60">
@@ -1906,362 +1891,412 @@
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="SEJU" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-386">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="6510" y="-200" width="120" height="60" as="geometry" />
+            <mxGeometry x="6830" y="-200" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="FSED" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-387">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="6510" y="-130" width="120" height="60" as="geometry" />
+            <mxGeometry x="6960" y="-200" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="GCNT- DETALLE CONSULTA CONTENCIOSO LUPA EJE Y DESCARGA SECCIÓN DOC - acción desconocida 778" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-388">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="6510" y="-60" width="120" height="60" as="geometry" />
+            <mxGeometry x="6700" y="-40" width="120" height="120" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="Que el REP se pueda abrir en los IMC se puede abrir un REP cuando esté resuelto  (733) (3). " placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-389">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="6510" y="10" width="120" height="60" as="geometry" />
+            <mxGeometry x="6700" y="-130" width="120" height="80" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="Modificar servicio adecuación base de datos en lo relativo a los recursos. (5) (734)" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-390">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="6510" y="80" width="120" height="60" as="geometry" />
+            <mxGeometry x="6830" y="-130" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="Paso de FSED a WAS9 (767)(5)" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-391">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="6510" y="150" width="120" height="60" as="geometry" />
+            <mxGeometry x="6960" y="-130" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="GCNT - Modificación IMC resuelto desde el Expediente Contencioso  (762) (8). " placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-392">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="6510" y="220" width="120" height="60" as="geometry" />
+            <mxGeometry x="6700" y="90" width="120" height="80" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="GCNT - RESOLUCIÓN EJE permite adjuntar mas de un documento de sentencia. 779" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-393">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="6510" y="290" width="120" height="60" as="geometry" />
+            <mxGeometry x="6700" y="180" width="120" height="80" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="Al notificar la propuesta de casación" modificaci_n_de_expediente_resuelto=" que muestre un mensaje (542) - (3) Del sprint anterior" modificaci_n_de_sentencia_y_consulta_de_procedimientos_judiciales_479_Incorporar_REP_en_los_servicios_de_consulta=" que no pete" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-394">
+        <UserObject label="Al notificar la propuesta de casación, si no se envía el correo, que no pete, que muestre un mensaje (542) - (3) Del sprint anterior" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="Al notificar la propuesta de casación" modificaci_n_de_expediente_resuelto=" que muestre un mensaje (542) - (3) Del sprint anterior" modificaci_n_de_sentencia_y_consulta_de_procedimientos_judiciales_479_Incorporar_REP_en_los_servicios_de_consulta=" que no pete" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-394">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="6510" y="360" width="120" height="60" as="geometry" />
+            <mxGeometry x="6830" y="-60" width="120" height="110" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="Se necesita que en la EJE se abra un REP mientras está pendiente (763) (5)" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-395">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="6510" y="430" width="120" height="60" as="geometry" />
+            <mxGeometry x="6700" y="270" width="120" height="70" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="GCNT - guardar la fecha de alta correctamente en TGESTDOC Y TGACTUACIO 780" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-396">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="6510" y="500" width="120" height="60" as="geometry" />
+            <mxGeometry x="6700" y="350" width="120" height="80" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="SEJU - Incluir actuaciones VISTA/COMPARECENCIA del IMC en el listado de reparto 772" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-397">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="6510" y="570" width="120" height="60" as="geometry" />
+            <mxGeometry x="6830" y="60" width="120" height="70" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="TGESTDOC PROBLEMA  IDDOCUMENTO" modificaci_n_de_expediente_resuelto=" EN LOS LISTADOS TEMPORALES  (SJU_) NO USA LA SECUENCIA " modificaci_n_de_sentencia_y_consulta_de_procedimientos_judiciales_479_Incorporar_REP_en_los_servicios_de_consulta=" SINO EL ID DEL SGD TEMP. (764) (5)" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-398">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="6510" y="640" width="120" height="60" as="geometry" />
+            <mxGeometry x="6700" y="440" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="Validar que no se repita la misma parte en el expediente. si ponemos 0 delante del DNI no hace la validación. Sin el 0 si la hace. (499) (2)" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-399">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="6510" y="710" width="120" height="60" as="geometry" />
+            <mxGeometry x="6700" y="510" width="120" height="110" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="Arreglar incidencia exportar resultados consulta (765) (2)" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-400">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="6510" y="780" width="120" height="60" as="geometry" />
+            <mxGeometry x="6700" y="630" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="Modificar el combo de las costas en los buscadores del contencioso (766) (2)" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-401">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="6510" y="850" width="120" height="60" as="geometry" />
+            <mxGeometry x="6700" y="700" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="GCNT -  ACTUACIONES  DEL IMC MAL NUMERADAS ESTÁ GUARDADA 001/02/202/.... QUITAR BARRAS - 776" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-402">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="6510" y="920" width="120" height="60" as="geometry" />
+            <mxGeometry x="6700" y="770" width="120" height="120" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="GCNT - GESTION EJE PERMITIR A LA TGSS ACCESO A LAS EJES DEL INSS- 777" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-403">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="6510" y="990" width="120" height="60" as="geometry" />
+            <mxGeometry x="6700" y="900" width="120" height="80" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="GCNT - AÑADIR NOTAS INTERNAR" modificaci_n_de_expediente_resuelto=" DEMANDA Y SENTENCIA AL DETALLE  DE CADA TIPO DE EXPEDIENTE EN LA CABECERA - 773" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-404">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="6510" y="1060" width="120" height="60" as="geometry" />
+            <mxGeometry x="6700" y="990" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="GCNT - Eliminación control parte actuando en ambos sentidos y arreglo exportación excel en contencioso y recurso 771&quot;,&quot;GCNT" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-405">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="6510" y="1130" width="120" height="60" as="geometry" />
+            <mxGeometry x="6700" y="1060" width="120" height="110" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="SEJU" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-406">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="6700" y="-200" width="120" height="60" as="geometry" />
+            <mxGeometry x="7360" y="-200" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="FSED" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-407">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="6700" y="-130" width="120" height="60" as="geometry" />
+            <mxGeometry x="7490" y="-200" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="GCNT - Modificación IMC resuelto desde el Expediente Recurso (781) (5) " placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-408">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="6700" y="-60" width="120" height="60" as="geometry" />
+            <mxGeometry x="7230" y="-130" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="Habilitar servicio del REP en SEJU (736) (8)" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-409">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="6700" y="10" width="120" height="60" as="geometry" />
+            <mxGeometry x="7360" y="-130" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="Incorporar Registro Prosa en FSED WAS9 (767) (5)" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-410">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="6700" y="80" width="120" height="60" as="geometry" />
+            <mxGeometry x="7490" y="-130" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="Entidad recurrida" modificaci_n_de_expediente_resuelto=" en el recurso de casación no permita cambiar de posición a la entidad. Revisar cud y casación c-a fechatraspasado (en producción todos tienen fecha traspaso)en los check (2) (784)" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-411">
+        <UserObject label="&lt;p&gt;Entidad recurrida, en el recurso de casación no permita cambiar de posición a la entidad.&lt;/p&gt;&lt;p&gt;Revisar cud y casación c-a fechatraspasado (en producción todos tienen fecha traspaso)en los check (2) (784)&lt;/p&gt;" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="Entidad recurrida" modificaci_n_de_expediente_resuelto=" en el recurso de casación no permita cambiar de posición a la entidad. Revisar cud y casación c-a fechatraspasado (en producción todos tienen fecha traspaso)en los check (2) (784)" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-411">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="6700" y="150" width="120" height="60" as="geometry" />
+            <mxGeometry x="7230" y="-60" width="120" height="190" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="Habilitar servicio de IMC en SEJU (789) (8)" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-412">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="6700" y="220" width="120" height="60" as="geometry" />
+            <mxGeometry x="7360" y="-60" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="En el PPC Notificar proceso previo casación incluir sentencia desfavorable en parte.  Se debe permitir subir el documento de propuesta y no notificar" modificaci_n_de_expediente_resuelto=" ya que existe el caso" modificaci_n_de_sentencia_y_consulta_de_procedimientos_judiciales_479_Incorporar_REP_en_los_servicios_de_consulta=" en el que el director provincial sea competente y no haga falta realizar el proceso previo. (785) (3)" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-413">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="6700" y="290" width="120" height="60" as="geometry" />
+            <mxGeometry x="7230" y="140" width="120" height="150" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="Modificar listados de reparto para que usen IDEXP en vez de EXPCLAVE (792) (3)" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-414">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="6700" y="360" width="120" height="60" as="geometry" />
+            <mxGeometry x="7360" y="10" width="120" height="80" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="Preparación versión de entrega (Kiuwan" modificaci_n_de_expediente_resuelto=" guía" modificaci_n_de_sentencia_y_consulta_de_procedimientos_judiciales_479_Incorporar_REP_en_los_servicios_de_consulta="...) (786) (3)" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-415">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="6700" y="430" width="120" height="60" as="geometry" />
+            <mxGeometry x="7230" y="300" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="Incorporar arreglo servicio Asignación Asuntos a letrados (793) (3)" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-416">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="6700" y="500" width="120" height="60" as="geometry" />
+            <mxGeometry x="7360" y="100" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="Modificar los datos de la resolución en la modificación del IMC resuelto en el contencioso. (787) (2) " placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-417">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="6700" y="570" width="120" height="60" as="geometry" />
+            <mxGeometry x="7230" y="370" width="120" height="80" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="&#39;- Arreglar la funcionalidad EXPORTAR RESULTADOS DE LA BÚSQUEDA vuelva a estar operativo. El error que da el programa me consta que ya se reportó hace unos días. (788) (3) &#39;" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-418">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="6700" y="640" width="120" height="60" as="geometry" />
+            <mxGeometry x="7230" y="460" width="120" height="160" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="En la consulta exportación de recursos no filtra bien. hecho Sprint 33 entrega was 9&quot;,&quot;RECURSO" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-419">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="6700" y="710" width="120" height="60" as="geometry" />
+            <mxGeometry x="7230" y="630" width="120" height="100" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="GCNT" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-420">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="6910" y="-200" width="120" height="60" as="geometry" />
+          <mxCell style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+            <mxGeometry x="7840" y="-200" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="GCSL" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-421">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="6910" y="-130" width="120" height="60" as="geometry" />
+          <mxCell style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+            <mxGeometry x="7970" y="-200" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="SEJU" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-422">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="6910" y="-60" width="120" height="60" as="geometry" />
+          <mxCell style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+            <mxGeometry x="8100" y="-200" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="En la apertura del REC (servicio) consulta por idexppadre" modificaci_n_de_expediente_resuelto=" añadir tipoexp. revisarlo también en modificación sentencia del CON y del REC. En la consulta no busca por tipoexppadre - Mario (2) 797" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-423">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="6910" y="10" width="120" height="60" as="geometry" />
+          <mxCell style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+            <mxGeometry x="7710" y="-130" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="Buscador añadir botón limpiar filtros y mantener el servicio juridico seleccionado al volver de la gestión de un concursal (3)806" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-424">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="6910" y="80" width="120" height="60" as="geometry" />
+          <mxCell style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+            <mxGeometry x="7970" y="-130" width="120" height="110" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="Habilitar servicio del REP en SEJU (810) (5)" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-425">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="6910" y="150" width="120" height="60" as="geometry" />
+          <mxCell style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+            <mxGeometry x="8100" y="-130" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="permitir filtrar por el órgano jurisdiccional o por el juzgado sin que sea obligatorio filtrar por la sala (pedido por Álvaro) - Que en recurso funcione como en contencioso (3) 798" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-426">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="6910" y="220" width="120" height="60" as="geometry" />
+          <mxCell style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+            <mxGeometry x="7840" y="-130" width="120" height="140" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="Pantalla  MODIFICACIÓN RECURSO RESUELTO y SERVICIO CONSULTA RECURSO - En todos los recursos resueltos recursos traspasados pueda modificar observaciones (2) 794" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-427">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="6910" y="290" width="120" height="60" as="geometry" />
+          <mxCell style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+            <mxGeometry x="7710" y="-60" width="120" height="190" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="DOCUMENTUM" modificaci_n_de_expediente_resuelto=" controlar longitud máxima del nombre 90 caracteres. TGESDOC. (2) 805" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-428">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="6910" y="360" width="120" height="60" as="geometry" />
+        <UserObject label="DOCUMENTUM, controlar longitud máxima del nombre 90 caracteres. TGESDOC. (2) 805" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="DOCUMENTUM" modificaci_n_de_expediente_resuelto=" controlar longitud máxima del nombre 90 caracteres. TGESDOC. (2) 805" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-428">
+          <mxCell style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+            <mxGeometry x="7970" y="-10" width="120" height="80" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="El procesado de LexNET está fallando con partes tipo 5 que no son IPF" modificaci_n_de_expediente_resuelto=" que son DNI con nombre (3)" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-429">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="6910" y="430" width="120" height="60" as="geometry" />
+          <mxCell style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+            <mxGeometry x="8100" y="-60" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="Apertura y gestión de la EJE se añade un doc con descripción muy larga peta. Controlar máximo del campo  (1) 799" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-430">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="6910" y="500" width="120" height="60" as="geometry" />
+          <mxCell style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+            <mxGeometry x="7840" y="20" width="120" height="90" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="Generar rptdesing (traer de SEJU GIDESEJUCFES07INTERPOS.rptdesign) (notas internas) en el recurso como INTERPONER RECURSO PARTE CONTRARIA. de la gestión). Poner botón/check que genere la nota (5) 796" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-431">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="6910" y="570" width="120" height="60" as="geometry" />
+          <mxCell style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+            <mxGeometry x="7710" y="140" width="120" height="100" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="asignación asuntos letrado-Da error al pulsar cargarLetrado y se bloquea el servicio. Error Pantalla xsl con el defecto: sjss/sejufw4/servicios/AsigAsuntoLetrado/SejuPaAsignacionAsunto_ZONA_CARGARLETRADO.xsl (2)" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-432">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="6910" y="640" width="120" height="60" as="geometry" />
+        <UserObject label="asignación asuntos letrado-Da error al pulsar cargarLetrado y se bloquea el servicio. Error &quot;Pantalla xsl con el defecto: sjss/sejufw4/servicios/&lt;div&gt;AsigAsuntoLetrado/&lt;/div&gt;&lt;div&gt;SejuPaAsignacionAsunto&lt;/div&gt;&lt;div&gt;_ZONA_&lt;/div&gt;&lt;div&gt;CARGARLETRADO.xsl&quot; (2)&lt;/div&gt;" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="asignación asuntos letrado-Da error al pulsar cargarLetrado y se bloquea el servicio. Error Pantalla xsl con el defecto: sjss/sejufw4/servicios/AsigAsuntoLetrado/SejuPaAsignacionAsunto_ZONA_CARGARLETRADO.xsl (2)" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-432">
+          <mxCell style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+            <mxGeometry x="8100" y="10" width="120" height="180" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="REP el detalle del rep muestra mal la posición de las partes. (3)- 801" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-433">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="6910" y="710" width="120" height="60" as="geometry" />
+          <mxCell style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+            <mxGeometry x="7840" y="120" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="Modificar la nota interior para que deje meter fichero sin tener que generar la nota. Descripción opcional y el campo de la nota solo obligatorio si pulsa generar nota (3) - 807" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-434">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="6910" y="780" width="120" height="140" as="geometry" />
+          <mxCell style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+            <mxGeometry x="7970" y="80" width="120" height="140" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="Generar la notificación de sentencia en el  recurso traspasado automáticamente y enviarla en el correo que se notifica al SJP (3) - 795" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-435">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="6910" y="929" width="120" height="120" as="geometry" />
+          <mxCell style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+            <mxGeometry x="7710" y="250" width="120" height="120" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="MERCEDES *** Campo Descripción de la sección Documentos dejarlo como opcional Añadir el tipo documento NOTA INTERIOR/OFICIO en las costas y en el resto de expedientes" modificaci_n_de_expediente_resuelto=" ( hacerlo como en concursal)  5 -808" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-436">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="6910" y="1059" width="120" height="150" as="geometry" />
+          <mxCell style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+            <mxGeometry x="7840" y="190" width="120" height="150" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="Pendiente Probar SARA y RAUL Habilitar servicio de IMC en SEJU (789) (3)" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-437">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="6910" y="1218" width="120" height="80" as="geometry" />
+          <mxCell style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+            <mxGeometry x="8100" y="200" width="120" height="80" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="Consulta Recurso, sección documentos, al descargar el fichero acción desconocida. (2) 809&quot;,&quot;GEAP" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-438">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="6910" y="1308" width="120" height="90" as="geometry" />
+          <mxCell style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+            <mxGeometry x="7710" y="380" width="120" height="90" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="SJCO" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-467">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="7260" y="-200" width="120" height="60" as="geometry" />
+            <mxGeometry x="8880" y="-200" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="GCNT" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-468">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="7260" y="-130" width="120" height="60" as="geometry" />
+            <mxGeometry x="8360" y="-200" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="GCSL" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-469">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="7260" y="-60" width="120" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="SEJU" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-470">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="7260" y="10" width="120" height="60" as="geometry" />
+            <mxGeometry x="8490" y="-200" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="En el detalle del contencioso que salgan todos los recursos (los recursos de los recursos) del procedimiento como ya se hace en el pantalla modificación contencioso resuelto.  (3) 800" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-471">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="7260" y="80" width="120" height="60" as="geometry" />
+            <mxGeometry x="8360" y="-130" width="120" height="170" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="IMPORTANTE Perfilado de servicios para nosotros. Seleccionando el SJDP. Para la pantalla de Gestión del Contencioso (5) - 804   " placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-472">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="7260" y="150" width="120" height="60" as="geometry" />
+            <mxGeometry x="8490" y="-110" width="120" height="120" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="Mantenimiento tablas revisar adcorreo (2)" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-473">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="7260" y="220" width="120" height="60" as="geometry" />
+            <mxGeometry x="8490" y="20" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="Resolución errores informe funcional GCNT v01.02.03.00.01(8.4.8.49) - Informe Pruebas Funcionales ll (compromiso con calidad) (3)" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-474">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="7260" y="290" width="120" height="60" as="geometry" />
+            <mxGeometry x="8657" y="90" width="120" height="110" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="LISTA DE REC   MOSTRAR ORDENADO POR FECHA ALTA DESCENDENTE en todas las pantallas con lista de recursos (782) (2) " placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-475">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="7260" y="360" width="120" height="60" as="geometry" />
+            <mxGeometry x="8490" y="100" width="120" height="120" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="LISTA DE IMC  MOSTRAR ORDENADO POR FECHA ALTA DESCENDENTE en todas las pantallas con lista de recursos (802) (2) " placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-476">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="7260" y="430" width="120" height="60" as="geometry" />
+            <mxGeometry x="8657" y="240" width="120" height="120" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="LISTA DE EJE  MOSTRAR ORDENADO POR FECHA ALTA DESCENDENTE en todas las pantallas con lista de recursos (803) (2) " placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-477">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="7260" y="500" width="120" height="60" as="geometry" />
+            <mxGeometry x="8490" y="240" width="120" height="120" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="Categorizar el documento de demanda según como actue la entidad. Demandado--&gt;DECRETO/CITACIÓN Demandante --&lt; escrito procesal " placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-478">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="7260" y="570" width="120" height="60" as="geometry" />
+            <mxGeometry x="8657" y="370" width="120" height="120" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="Dentro de costas el detalle de la EJE padre Revisar los detalles dentro de las costas (783) ()" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-479">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="7260" y="640" width="120" height="60" as="geometry" />
+            <mxGeometry x="8490" y="370" width="120" height="80" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="Paginación de las partes en : servicio de modificación expediente resuelto" modificaci_n_de_expediente_resuelto=" en el servicio de consulta" modificaci_n_de_sentencia_y_consulta_de_procedimientos_judiciales_479_Incorporar_REP_en_los_servicios_de_consulta=" servicio de gestionar sentencia y en los detalles (506)" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-480">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="7260" y="710" width="120" height="60" as="geometry" />
+            <mxGeometry x="8490" y="510" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="Implementar modificación servicio REP en SEJU (790) (5)" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-481">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="7260" y="780" width="120" height="60" as="geometry" />
+            <mxGeometry x="8490" y="580" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="estudiar problema con caracteres especiales (comillas" modificaci_n_de_expediente_resuelto=" &amp;" modificaci_n_de_sentencia_y_consulta_de_procedimientos_judiciales_479_Incorporar_REP_en_los_servicios_de_consulta=" ...) Yo soy partidario de que la aplicación los acepte" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-482">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="7260" y="850" width="120" height="60" as="geometry" />
+            <mxGeometry x="8490" y="650" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="Implementar modificación servicio IMC en SEJU (791) (5)" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-483">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="7260" y="920" width="120" height="60" as="geometry" />
+            <mxGeometry x="8490" y="720" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="607- servicio etiquetas revisarlo" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-484">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="7260" y="990" width="120" height="60" as="geometry" />
+            <mxGeometry x="8490" y="790" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="Revisar detalles todos los enlaces&quot;,&quot;GEAP" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-485">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="7260" y="1060" width="120" height="60" as="geometry" />
+            <mxGeometry x="8490" y="860" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="GCNT" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="GCNT" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-487">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="-1707" y="-200" width="119" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="SEJU" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-488">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="-1427" y="-200" width="119" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="GCNT" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="GCNT" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-489">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="-1202" y="-200" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="GCNT" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="GCNT" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-490">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="-590" y="-200" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="GEAP" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="SEJU" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-491">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="660" y="-200" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="Migrar a GITLAB" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-492">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="920" y="-130" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="SEJU" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="SJCO" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-493">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="8620" y="-200" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="GEAP" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="SJCO" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-494">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="8750" y="-200" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="RECURSO" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="GCNT" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-495">
+          <mxCell style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+            <mxGeometry x="7710" y="-200" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="GCNT" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="SEJU" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-496">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="7230" y="-200" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="GCNT" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="SEJU" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-497">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="6700" y="-200" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
