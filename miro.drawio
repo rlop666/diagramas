@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="26.1.3">
   <diagram name="Página-1" id="8mPneK7-50EK6AkMiMIO">
-    <mxGraphModel dx="4159" dy="2097" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2847" dy="1371" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1851,7 +1851,7 @@
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="Nuevo Servicio modificar sentencia resuelta  EJE (adaptar el de SEJU): - modificación de sentencia (3) (676)" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-378">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="6320" y="430" width="120" height="60" as="geometry" />
+            <mxGeometry x="6320" y="430" width="120" height="90" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="Estudio de SEJU en WAS9 (751)" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-379">
@@ -1861,7 +1861,7 @@
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="Tablas restantes en el servicio de mantenimiento de tablas ADCORREO Da error. A parte en el combo ACTOR" modificaci_n_de_expediente_resuelto=" muestra los registros dados de baja. SE tendría que modificar. ADESTADOTIPOEXPEDIENTE Muestra los tipos de expedientes que están de baja. ADESTADO Da error. No existe la secuencia  (748)" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-380">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="6320" y="570" width="120" height="60" as="geometry" />
+            <mxGeometry x="6320" y="570" width="120" height="90" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="Añadir a todos los detalles la lista de costas y sus documentos. (756)" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-381">
@@ -1881,12 +1881,12 @@
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="Buscador GCNT (servicio Gestión) no filtra el combo procedimiento según la jurisdicción (548)" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-384">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="6320" y="850" width="120" height="60" as="geometry" />
+            <mxGeometry x="6320" y="850" width="120" height="80" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="Cambios a la hora de abrir recursos con el exp. contencioso finalizado. Se pueda abrir en 3 ª instancia y se muestren todos los recurso desde el contencioso (757)&quot;,&quot;GCNT" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-385">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="6320" y="920" width="120" height="60" as="geometry" />
+            <mxGeometry x="6320" y="920" width="120" height="140" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="SEJU" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-386">
@@ -2114,7 +2114,7 @@
             <mxGeometry x="7840" y="20" width="120" height="90" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="Generar rptdesing (traer de SEJU GIDESEJUCFES07INTERPOS.rptdesign) (notas internas) en el recurso como INTERPONER RECURSO PARTE CONTRARIA. de la gestión). Poner botón/check que genere la nota (5) 796" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-431">
+        <UserObject label="&lt;br&gt;Generar rptdesing (traer de SEJU GIDESEJUCFES07INTERPOS.rptdesign) (notas internas) en el recurso como INTERPONER RECURSO PARTE CONTRARIA. de la gestión). Poner botón/check que genere la nota (5) 796" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="Generar rptdesing (traer de SEJU GIDESEJUCFES07INTERPOS.rptdesign) (notas internas) en el recurso como INTERPONER RECURSO PARTE CONTRARIA. de la gestión). Poner botón/check que genere la nota (5) 796" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-431">
           <mxCell style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
             <mxGeometry x="7710" y="140" width="120" height="100" as="geometry" />
           </mxCell>
