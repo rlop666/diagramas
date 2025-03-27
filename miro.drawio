@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="26.1.3">
   <diagram name="Página-1" id="8mPneK7-50EK6AkMiMIO">
-    <mxGraphModel dx="1883" dy="1753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2328" dy="2000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,52 +11,52 @@
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="GCNT" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-7">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="20" y="90" width="120" height="60" as="geometry" />
+            <mxGeometry x="230" y="-200" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="GCSL" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-8">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="20" y="160" width="120" height="60" as="geometry" />
+            <mxGeometry x="230" y="-130" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="INFORMES MADRID" modificaci_n_de_expediente_resuelto=" LISTA DE LETRADOS OBTENERLOS DE LA TABLA ADPROPIEDADES. (439)" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-9">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="20" y="230" width="120" height="60" as="geometry" />
+            <mxGeometry x="230" y="-60" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="En el buscador en el campo num Expediente" modificaci_n_de_expediente_resuelto=" validar que solo puedan meter números. Ahora deja meter cualquier cosa y sale nullpointer." placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-10">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="20" y="300" width="120" height="60" as="geometry" />
+            <mxGeometry x="380" y="-130" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="Eliminar la firma del informe de notificación de sentencia que se genera para Madrid (existe un informe específico para Madrid)" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-11">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="20" y="370" width="120" height="60" as="geometry" />
+            <mxGeometry x="230" y="10" width="120" height="120" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="En la gestión bailan  las secciones demandante y demandado" modificaci_n_de_expediente_resuelto=" pero saca bien las partes. Estas secciones las dejamos fijas" modificaci_n_de_sentencia_y_consulta_de_procedimientos_judiciales_479_Incorporar_REP_en_los_servicios_de_consulta=" para el resto de servicios. (445)" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-12">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="20" y="440" width="120" height="60" as="geometry" />
+            <mxGeometry x="230" y="140" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="El SW de letrados no devuelve datos para los centrales y DSJ" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-13">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="20" y="510" width="120" height="60" as="geometry" />
+            <mxGeometry x="230" y="220" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="Para el SJ INGESA (79)" modificaci_n_de_expediente_resuelto="Urge" modificaci_n_de_sentencia_y_consulta_de_procedimientos_judiciales_479_Incorporar_REP_en_los_servicios_de_consulta="" modificaci_n_de_sentencia_y_consulta_de_procedimientos_judiciales_478_Modificar_las_notas_internas_para_que_saque_la_parte_con_DNI_DUPLICADO_480_Validaci_n_CIF="GCNT" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-14">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="20" y="580" width="120" height="60" as="geometry" />
+            <mxGeometry x="230" y="290" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="GCSL" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-15">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="20" y="650" width="120" height="60" as="geometry" />
+            <mxGeometry x="380" y="-200" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="SEJU" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-16">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="20" y="720" width="120" height="60" as="geometry" />
+            <mxGeometry x="70" y="670" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="Poder cambiar el letrado a una fecha posterior de la fecha de apertura. Añadir un campo nuevo fecha letrado. (Servicio de Gestión y Modificación de Exp resuelto)" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-17">
@@ -91,7 +91,7 @@
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="En el servicio de modificación de expediente con. resuelto, cuando la entidad actúa como demandada, al ir a guardar el expediente da el mensaje: &#39;Es obligatorio introducir una parte Contraria&#39;&quot;,&quot;GCNT" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-23">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="20" y="1210" width="120" height="60" as="geometry" />
+            <mxGeometry x="-110" y="1210" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%_p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta%" _p_Nuevos_carriles_de_nadoIncorporar_IMC_en_los_servicios_de_consulta="GCSL" placeholders="1" id="qMxfWlfbw1Aegd-qk1w2-24">
