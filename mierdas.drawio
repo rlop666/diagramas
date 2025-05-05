@@ -7554,7 +7554,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="PRUEBAS 20250505" id="A21Y639yVS5aRQsbfApc">
-    <mxGraphModel dx="1775" dy="993" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1151" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="RDmXGxarMz3ogs79_pRg-0" />
         <mxCell id="RDmXGxarMz3ogs79_pRg-1" parent="RDmXGxarMz3ogs79_pRg-0" />
@@ -7920,7 +7920,7 @@
         <mxCell id="RDmXGxarMz3ogs79_pRg-121" value="DETALLE PADRE" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="RDmXGxarMz3ogs79_pRg-1">
           <mxGeometry x="1120" y="1040" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RDmXGxarMz3ogs79_pRg-122" value="DETALLE REP" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="RDmXGxarMz3ogs79_pRg-1">
+        <mxCell id="RDmXGxarMz3ogs79_pRg-122" value="DETALLE REP" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="RDmXGxarMz3ogs79_pRg-1">
           <mxGeometry x="840" y="400" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RDmXGxarMz3ogs79_pRg-123" value="DETALLE IMC" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="RDmXGxarMz3ogs79_pRg-1">
@@ -8631,7 +8631,7 @@
         <mxCell id="RDmXGxarMz3ogs79_pRg-356" value="ÓRGANO JURISDICCIONAL" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="RDmXGxarMz3ogs79_pRg-1">
           <mxGeometry x="1120" y="1200" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RDmXGxarMz3ogs79_pRg-357" value="DETALLE REP" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="RDmXGxarMz3ogs79_pRg-1">
+        <mxCell id="RDmXGxarMz3ogs79_pRg-357" value="DETALLE REP" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="RDmXGxarMz3ogs79_pRg-1">
           <mxGeometry x="840" y="1480" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RDmXGxarMz3ogs79_pRg-358" value="CONSULTAR DOCUMENTACIÓN" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="RDmXGxarMz3ogs79_pRg-1">
