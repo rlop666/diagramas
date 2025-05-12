@@ -7411,7 +7411,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="PRUEBAS 20250505" id="A21Y639yVS5aRQsbfApc">
-    <mxGraphModel dx="4899" dy="889" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4687" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="RDmXGxarMz3ogs79_pRg-0" />
         <mxCell id="RDmXGxarMz3ogs79_pRg-1" parent="RDmXGxarMz3ogs79_pRg-0" />
@@ -11842,7 +11842,7 @@
         <mxCell id="Wdpoeow_Har_EFkl5r6l-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="RDmXGxarMz3ogs79_pRg-1" source="Wdpoeow_Har_EFkl5r6l-85" target="Wdpoeow_Har_EFkl5r6l-86">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Wdpoeow_Har_EFkl5r6l-85" value="ANULAR REP" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="RDmXGxarMz3ogs79_pRg-1">
+        <mxCell id="Wdpoeow_Har_EFkl5r6l-85" value="ANULAR REP" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="RDmXGxarMz3ogs79_pRg-1">
           <mxGeometry x="1041.5" y="7891" width="200" height="31" as="geometry" />
         </mxCell>
         <mxCell id="Wdpoeow_Har_EFkl5r6l-86" value="DETALLE PADRE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="RDmXGxarMz3ogs79_pRg-1">
@@ -11930,6 +11930,12 @@
         </mxCell>
         <mxCell id="Wdpoeow_Har_EFkl5r6l-136" value="ÓRGANO JURISDICCIONAL" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="RDmXGxarMz3ogs79_pRg-1">
           <mxGeometry x="1042.75" y="7570" width="200" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="Wdpoeow_Har_EFkl5r6l-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="RDmXGxarMz3ogs79_pRg-1" source="Wdpoeow_Har_EFkl5r6l-138" target="Wdpoeow_Har_EFkl5r6l-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wdpoeow_Har_EFkl5r6l-138" value="Acción desconocida al eliminar el fichero de anulación" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="RDmXGxarMz3ogs79_pRg-1">
+          <mxGeometry x="741.5" y="7891" width="229" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
