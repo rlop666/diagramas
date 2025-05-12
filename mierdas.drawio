@@ -11967,6 +11967,9 @@
         <mxCell id="Wdpoeow_Har_EFkl5r6l-151" value="acción desconocida al volver" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="RDmXGxarMz3ogs79_pRg-1">
           <mxGeometry x="-740" y="2699" width="229" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Wdpoeow_Har_EFkl5r6l-153" value="&lt;span style=&quot;color: rgb(88, 88, 88); font-family: Roboto-Regular, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(248, 248, 248); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;IMC/046/01/2025/000009/00/000/001&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="RDmXGxarMz3ogs79_pRg-1">
+          <mxGeometry x="-1330" y="2425.5" width="300" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
