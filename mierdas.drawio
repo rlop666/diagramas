@@ -11603,6 +11603,9 @@
         <mxCell id="Wdpoeow_Har_EFkl5r6l-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="RDmXGxarMz3ogs79_pRg-1" source="Wdpoeow_Har_EFkl5r6l-0" target="Wdpoeow_Har_EFkl5r6l-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Wdpoeow_Har_EFkl5r6l-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="RDmXGxarMz3ogs79_pRg-1" source="Wdpoeow_Har_EFkl5r6l-0" target="Wdpoeow_Har_EFkl5r6l-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Wdpoeow_Har_EFkl5r6l-0" value="GESTIÓN IMC RESUELTO" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="RDmXGxarMz3ogs79_pRg-1">
           <mxGeometry x="480" y="6770" width="200" height="31" as="geometry" />
         </mxCell>
@@ -11644,6 +11647,24 @@
         </mxCell>
         <mxCell id="Wdpoeow_Har_EFkl5r6l-9" value="CONSULTAR FICHERO" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="RDmXGxarMz3ogs79_pRg-1">
           <mxGeometry x="1321" y="6890" width="200" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="Wdpoeow_Har_EFkl5r6l-24" value="" style="group" vertex="1" connectable="0" parent="RDmXGxarMz3ogs79_pRg-1">
+          <mxGeometry x="761" y="6970" width="480" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="Wdpoeow_Har_EFkl5r6l-25" value="NUEVA ACTUACIÓN" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="Wdpoeow_Har_EFkl5r6l-24">
+          <mxGeometry width="200" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="Wdpoeow_Har_EFkl5r6l-26" value="MODIFICAR ACTUACIÓN" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="Wdpoeow_Har_EFkl5r6l-24">
+          <mxGeometry x="280" width="200" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="Wdpoeow_Har_EFkl5r6l-27" value="ELIMINAR ACTUACIÓN" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="Wdpoeow_Har_EFkl5r6l-24">
+          <mxGeometry x="280" y="40" width="200" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="Wdpoeow_Har_EFkl5r6l-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Wdpoeow_Har_EFkl5r6l-24" source="Wdpoeow_Har_EFkl5r6l-25" target="Wdpoeow_Har_EFkl5r6l-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wdpoeow_Har_EFkl5r6l-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Wdpoeow_Har_EFkl5r6l-24" source="Wdpoeow_Har_EFkl5r6l-25" target="Wdpoeow_Har_EFkl5r6l-27">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
